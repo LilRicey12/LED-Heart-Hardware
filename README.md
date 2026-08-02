@@ -40,4 +40,4 @@ This repository will contain:
 
 ## Current Stage
 
-The project storage system and documentation structure are being established before circuit development begins.
+The local project workspace, OneDrive archive, and private GitHub repository have been established. Circuit development has not yet begun.
