@@ -2,7 +2,7 @@
 
 ## Project Status
 
-Planning and early development.
+Prototyping
 
 ## Project Overview
 
