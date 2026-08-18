@@ -20,11 +20,11 @@
       </alphaPercent>
       <value></value>
       <controlPoints>
-        <point x="4.9" y="0.2"/>
-        <point x="8.7976378" y="8.1"/>
+        <point x="3.1" y="2.7"/>
+        <point x="6.9976378" y="10.6"/>
       </controlPoints>
-      <firstPoint x="4.9" y="0.2"/>
-      <secondPoint x="8.7976378" y="8.1"/>
+      <firstPoint x="3.1" y="2.7"/>
+      <secondPoint x="6.9976378" y="10.6"/>
       <boardColor hex="006600"/>
       <borderColor hex="ada47d"/>
       <coordinateColor hex="b6b6b6"/>
@@ -48,9 +48,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.3" y="0.4"/>
-        <point x="5.3" y="7.9"/>
-        <point x="5.3" y="4.15"/>
+        <point x="3.5" y="2.9"/>
+        <point x="3.5" y="10.4"/>
+        <point x="3.5" y="6.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -72,9 +72,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.4" y="0.4"/>
-        <point x="8.4" y="7.9"/>
-        <point x="8.4" y="4.15"/>
+        <point x="6.6" y="2.9"/>
+        <point x="6.6" y="10.4"/>
+        <point x="6.6" y="6.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -96,9 +96,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="4.6"/>
-        <point x="7.6" y="4.6"/>
-        <point x="7.55" y="4.6"/>
+        <point x="5.7" y="7.1"/>
+        <point x="5.8" y="7.1"/>
+        <point x="5.75" y="7.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -120,9 +120,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.8" y="4.6"/>
-        <point x="7.7" y="4.6"/>
-        <point x="7.75" y="4.6"/>
+        <point x="6.0" y="7.1"/>
+        <point x="5.9" y="7.1"/>
+        <point x="5.95" y="7.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -144,9 +144,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="4.9"/>
-        <point x="7.4" y="4.9"/>
-        <point x="7.45" y="4.9"/>
+        <point x="5.7" y="7.4"/>
+        <point x="5.6" y="7.4"/>
+        <point x="5.65" y="7.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -168,9 +168,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.8" y="5.0"/>
-        <point x="7.9" y="5.0"/>
-        <point x="7.85" y="5.0"/>
+        <point x="6.0" y="7.5"/>
+        <point x="6.1" y="7.5"/>
+        <point x="6.05" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -192,9 +192,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.4" y="4.9"/>
-        <point x="7.4" y="5.2"/>
-        <point x="7.4" y="5.05"/>
+        <point x="5.6" y="7.4"/>
+        <point x="5.6" y="7.7"/>
+        <point x="5.6" y="7.55"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -214,9 +214,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="5.0"/>
-        <point x="7.9" y="5.2"/>
-        <point x="7.9" y="5.1"/>
+        <point x="6.1" y="7.5"/>
+        <point x="6.1" y="7.7"/>
+        <point x="6.1" y="7.6"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -236,9 +236,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.4" y="5.2"/>
-        <point x="7.6" y="5.2"/>
-        <point x="7.5" y="5.2"/>
+        <point x="5.6" y="7.7"/>
+        <point x="5.8" y="7.7"/>
+        <point x="5.7" y="7.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -260,9 +260,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="5.2"/>
-        <point x="7.5" y="5.5"/>
-        <point x="7.5" y="5.35"/>
+        <point x="5.7" y="7.7"/>
+        <point x="5.7" y="8.0"/>
+        <point x="5.7" y="7.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -282,9 +282,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="5.5"/>
-        <point x="7.5" y="5.5"/>
-        <point x="7.4" y="5.5"/>
+        <point x="5.5" y="8.0"/>
+        <point x="5.7" y="8.0"/>
+        <point x="5.6" y="8.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -306,9 +306,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="5.0"/>
-        <point x="7.0" y="5.0"/>
-        <point x="7.25" y="5.0"/>
+        <point x="5.7" y="7.5"/>
+        <point x="5.2" y="7.5"/>
+        <point x="5.45" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -328,9 +328,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="1.0"/>
-        <point x="5.3" y="1.0"/>
-        <point x="5.4" y="1.0"/>
+        <point x="3.7" y="3.5"/>
+        <point x="3.5" y="3.5"/>
+        <point x="3.6" y="3.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -352,9 +352,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="1.4"/>
-        <point x="5.3" y="1.4"/>
-        <point x="5.45" y="1.4"/>
+        <point x="3.8" y="3.9"/>
+        <point x="3.5" y="3.9"/>
+        <point x="3.65" y="3.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -376,9 +376,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="1.8"/>
-        <point x="5.3" y="1.8"/>
-        <point x="5.55" y="1.8"/>
+        <point x="4.0" y="4.3"/>
+        <point x="3.5" y="4.3"/>
+        <point x="3.75" y="4.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -400,9 +400,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="2.2"/>
-        <point x="5.3" y="2.2"/>
-        <point x="5.65" y="2.2"/>
+        <point x="4.2" y="4.7"/>
+        <point x="3.5" y="4.7"/>
+        <point x="3.85" y="4.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -424,9 +424,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.1" y="4.8"/>
-        <point x="7.1" y="5.5"/>
-        <point x="7.1" y="5.15"/>
+        <point x="5.3" y="7.3"/>
+        <point x="5.3" y="8.0"/>
+        <point x="5.3" y="7.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -446,9 +446,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.0" y="5.1"/>
-        <point x="7.9" y="5.5"/>
-        <point x="7.95" y="5.3"/>
+        <point x="6.2" y="7.6"/>
+        <point x="6.1" y="8.0"/>
+        <point x="6.15" y="7.8"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -468,9 +468,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.6" y="5.2"/>
-        <point x="7.9" y="5.2"/>
-        <point x="7.75" y="5.2"/>
+        <point x="5.8" y="7.7"/>
+        <point x="6.1" y="7.7"/>
+        <point x="5.95" y="7.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -492,9 +492,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="5.5"/>
-        <point x="8.0" y="5.5"/>
-        <point x="7.95" y="5.5"/>
+        <point x="6.1" y="8.0"/>
+        <point x="6.2" y="8.0"/>
+        <point x="6.15" y="8.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -516,9 +516,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="4.8"/>
-        <point x="8.4" y="4.8"/>
-        <point x="8.25" y="4.8"/>
+        <point x="6.3" y="7.3"/>
+        <point x="6.6" y="7.3"/>
+        <point x="6.45" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -540,9 +540,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.3" y="5.5"/>
-        <point x="8.4" y="5.5"/>
-        <point x="8.35" y="5.5"/>
+        <point x="6.5" y="8.0"/>
+        <point x="6.6" y="8.0"/>
+        <point x="6.55" y="8.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -564,9 +564,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="0.6"/>
-        <point x="5.3" y="0.6"/>
-        <point x="5.45" y="0.6"/>
+        <point x="3.8" y="3.1"/>
+        <point x="3.5" y="3.1"/>
+        <point x="3.65" y="3.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -588,9 +588,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="0.4"/>
-        <point x="5.6" y="0.4"/>
-        <point x="5.8" y="0.4"/>
+        <point x="4.2" y="2.9"/>
+        <point x="3.8" y="2.9"/>
+        <point x="4.0" y="2.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -612,9 +612,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="0.4"/>
-        <point x="5.6" y="0.6"/>
-        <point x="5.6" y="0.5"/>
+        <point x="3.8" y="2.9"/>
+        <point x="3.8" y="3.1"/>
+        <point x="3.8" y="3.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -636,9 +636,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="0.6"/>
-        <point x="6.4" y="0.4"/>
-        <point x="6.4" y="0.5"/>
+        <point x="4.6" y="3.1"/>
+        <point x="4.6" y="2.9"/>
+        <point x="4.6" y="3.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -660,9 +660,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="0.4"/>
-        <point x="6.0" y="0.4"/>
-        <point x="6.2" y="0.4"/>
+        <point x="4.6" y="2.9"/>
+        <point x="4.2" y="2.9"/>
+        <point x="4.4" y="2.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -684,9 +684,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.6" y="1.0"/>
-        <point x="6.6" y="0.6"/>
-        <point x="6.6" y="0.8"/>
+        <point x="4.8" y="3.5"/>
+        <point x="4.8" y="3.1"/>
+        <point x="4.8" y="3.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -708,9 +708,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="0.6"/>
-        <point x="6.6" y="0.6"/>
-        <point x="6.5" y="0.6"/>
+        <point x="4.6" y="3.1"/>
+        <point x="4.8" y="3.1"/>
+        <point x="4.7" y="3.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -732,9 +732,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.6" y="1.0"/>
-        <point x="7.1" y="1.0"/>
-        <point x="6.85" y="1.0"/>
+        <point x="4.8" y="3.5"/>
+        <point x="5.3" y="3.5"/>
+        <point x="5.05" y="3.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -756,9 +756,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.1" y="1.0"/>
-        <point x="7.1" y="0.6"/>
-        <point x="7.1" y="0.8"/>
+        <point x="5.3" y="3.5"/>
+        <point x="5.3" y="3.1"/>
+        <point x="5.3" y="3.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -780,9 +780,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="0.6"/>
-        <point x="7.1" y="0.6"/>
-        <point x="7.2" y="0.6"/>
+        <point x="5.5" y="3.1"/>
+        <point x="5.3" y="3.1"/>
+        <point x="5.4" y="3.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -804,9 +804,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="0.6"/>
-        <point x="7.3" y="0.4"/>
-        <point x="7.3" y="0.5"/>
+        <point x="5.5" y="3.1"/>
+        <point x="5.5" y="2.9"/>
+        <point x="5.5" y="3.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -828,9 +828,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="0.4"/>
-        <point x="7.7" y="0.4"/>
-        <point x="7.5" y="0.4"/>
+        <point x="5.5" y="2.9"/>
+        <point x="5.9" y="2.9"/>
+        <point x="5.7" y="2.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -852,9 +852,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="0.4"/>
-        <point x="8.1" y="0.4"/>
-        <point x="7.9" y="0.4"/>
+        <point x="5.9" y="2.9"/>
+        <point x="6.3" y="2.9"/>
+        <point x="6.1" y="2.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -876,9 +876,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="0.6"/>
-        <point x="8.1" y="0.4"/>
-        <point x="8.1" y="0.5"/>
+        <point x="6.3" y="3.1"/>
+        <point x="6.3" y="2.9"/>
+        <point x="6.3" y="3.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -900,9 +900,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="0.6"/>
-        <point x="8.2" y="0.6"/>
-        <point x="8.15" y="0.6"/>
+        <point x="6.3" y="3.1"/>
+        <point x="6.4" y="3.1"/>
+        <point x="6.35" y="3.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -924,9 +924,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="0.6"/>
-        <point x="8.2" y="1.0"/>
-        <point x="8.2" y="0.8"/>
+        <point x="6.4" y="3.1"/>
+        <point x="6.4" y="3.5"/>
+        <point x="6.4" y="3.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -948,9 +948,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="2.5"/>
-        <point x="6.4" y="2.2"/>
-        <point x="6.4" y="2.35"/>
+        <point x="4.6" y="5.0"/>
+        <point x="4.6" y="4.7"/>
+        <point x="4.6" y="4.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -972,9 +972,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="2.2"/>
-        <point x="6.4" y="2.2"/>
-        <point x="6.2" y="2.2"/>
+        <point x="4.2" y="4.7"/>
+        <point x="4.6" y="4.7"/>
+        <point x="4.4" y="4.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -996,9 +996,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="2.5"/>
-        <point x="7.3" y="2.5"/>
-        <point x="6.85" y="2.5"/>
+        <point x="4.6" y="5.0"/>
+        <point x="5.5" y="5.0"/>
+        <point x="5.05" y="5.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1020,9 +1020,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.9" y="2.8"/>
-        <point x="6.9" y="2.5"/>
-        <point x="6.9" y="2.65"/>
+        <point x="5.1" y="5.3"/>
+        <point x="5.1" y="5.0"/>
+        <point x="5.1" y="5.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1044,9 +1044,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.8" y="1.4"/>
-        <point x="6.8" y="1.0"/>
-        <point x="6.8" y="1.2"/>
+        <point x="5.0" y="3.9"/>
+        <point x="5.0" y="3.5"/>
+        <point x="5.0" y="3.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1068,9 +1068,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="2.5"/>
-        <point x="7.3" y="2.2"/>
-        <point x="7.3" y="2.35"/>
+        <point x="5.5" y="5.0"/>
+        <point x="5.5" y="4.7"/>
+        <point x="5.5" y="4.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1092,9 +1092,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="2.2"/>
-        <point x="7.7" y="2.2"/>
-        <point x="7.5" y="2.2"/>
+        <point x="5.5" y="4.7"/>
+        <point x="5.9" y="4.7"/>
+        <point x="5.7" y="4.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1116,9 +1116,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="2.2"/>
-        <point x="7.7" y="1.8"/>
-        <point x="7.7" y="2.0"/>
+        <point x="5.9" y="4.7"/>
+        <point x="5.9" y="4.3"/>
+        <point x="5.9" y="4.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1140,9 +1140,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="1.8"/>
-        <point x="7.9" y="1.8"/>
-        <point x="7.8" y="1.8"/>
+        <point x="5.9" y="4.3"/>
+        <point x="6.1" y="4.3"/>
+        <point x="6.0" y="4.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1164,9 +1164,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="1.8"/>
-        <point x="7.9" y="1.4"/>
-        <point x="7.9" y="1.6"/>
+        <point x="6.1" y="4.3"/>
+        <point x="6.1" y="3.9"/>
+        <point x="6.1" y="4.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1188,9 +1188,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="1.4"/>
-        <point x="8.1" y="1.4"/>
-        <point x="8.0" y="1.4"/>
+        <point x="6.1" y="3.9"/>
+        <point x="6.3" y="3.9"/>
+        <point x="6.2" y="3.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1212,9 +1212,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="4.8"/>
-        <point x="7.4" y="4.8"/>
-        <point x="7.45" y="4.8"/>
+        <point x="5.7" y="7.3"/>
+        <point x="5.6" y="7.3"/>
+        <point x="5.65" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1236,9 +1236,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.8" y="4.8"/>
-        <point x="7.9" y="4.8"/>
-        <point x="7.85" y="4.8"/>
+        <point x="6.0" y="7.3"/>
+        <point x="6.1" y="7.3"/>
+        <point x="6.05" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1260,9 +1260,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="5.5"/>
-        <point x="5.9" y="5.5"/>
-        <point x="5.85" y="5.5"/>
+        <point x="4.0" y="8.0"/>
+        <point x="4.1" y="8.0"/>
+        <point x="4.05" y="8.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1284,9 +1284,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.3" y="4.8"/>
-        <point x="6.2" y="4.8"/>
-        <point x="6.25" y="4.8"/>
+        <point x="4.5" y="7.3"/>
+        <point x="4.4" y="7.3"/>
+        <point x="4.45" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1308,9 +1308,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="2.3"/>
-        <point x="5.5" y="1.2"/>
-        <point x="5.5" y="1.75"/>
+        <point x="3.7" y="4.8"/>
+        <point x="3.7" y="3.7"/>
+        <point x="3.7" y="4.25"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1330,9 +1330,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="2.9"/>
-        <point x="5.6" y="1.6"/>
-        <point x="5.6" y="2.25"/>
+        <point x="3.8" y="5.4"/>
+        <point x="3.8" y="4.1"/>
+        <point x="3.8" y="4.75"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1352,9 +1352,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="2.3"/>
-        <point x="5.8" y="2.0"/>
-        <point x="5.8" y="2.15"/>
+        <point x="4.0" y="4.8"/>
+        <point x="4.0" y="4.5"/>
+        <point x="4.0" y="4.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1374,9 +1374,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="2.8"/>
-        <point x="6.0" y="2.4"/>
-        <point x="6.0" y="2.6"/>
+        <point x="4.2" y="5.3"/>
+        <point x="4.2" y="4.9"/>
+        <point x="4.2" y="5.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1396,9 +1396,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.0" y="3.0"/>
-        <point x="7.0" y="1.6"/>
-        <point x="7.0" y="2.3"/>
+        <point x="5.2" y="5.5"/>
+        <point x="5.2" y="4.1"/>
+        <point x="5.2" y="4.8"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1418,9 +1418,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="2.8"/>
-        <point x="7.7" y="2.4"/>
-        <point x="7.7" y="2.6"/>
+        <point x="5.9" y="5.3"/>
+        <point x="5.9" y="4.9"/>
+        <point x="5.9" y="5.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1440,9 +1440,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="2.3"/>
-        <point x="7.9" y="2.0"/>
-        <point x="7.9" y="2.15"/>
+        <point x="6.1" y="4.8"/>
+        <point x="6.1" y="4.5"/>
+        <point x="6.1" y="4.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1462,9 +1462,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="2.8"/>
-        <point x="8.1" y="1.6"/>
-        <point x="8.1" y="2.2"/>
+        <point x="6.3" y="5.3"/>
+        <point x="6.3" y="4.1"/>
+        <point x="6.3" y="4.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1484,9 +1484,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="2.3"/>
-        <point x="8.2" y="1.2"/>
-        <point x="8.2" y="1.75"/>
+        <point x="6.4" y="4.8"/>
+        <point x="6.4" y="3.7"/>
+        <point x="6.4" y="4.25"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1506,9 +1506,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="0.7"/>
-        <point x="5.8" y="0.7"/>
-        <point x="5.7" y="0.7"/>
+        <point x="3.8" y="3.2"/>
+        <point x="4.0" y="3.2"/>
+        <point x="3.9" y="3.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1530,9 +1530,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="0.5"/>
-        <point x="6.0" y="0.7"/>
-        <point x="6.0" y="0.6"/>
+        <point x="4.2" y="3.0"/>
+        <point x="4.2" y="3.2"/>
+        <point x="4.2" y="3.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1554,9 +1554,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="0.7"/>
-        <point x="6.4" y="0.7"/>
-        <point x="6.3" y="0.7"/>
+        <point x="4.4" y="3.2"/>
+        <point x="4.6" y="3.2"/>
+        <point x="4.5" y="3.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1578,9 +1578,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="0.7"/>
-        <point x="7.3" y="0.7"/>
-        <point x="7.4" y="0.7"/>
+        <point x="5.7" y="3.2"/>
+        <point x="5.5" y="3.2"/>
+        <point x="5.6" y="3.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1602,9 +1602,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="0.7"/>
-        <point x="7.7" y="0.5"/>
-        <point x="7.7" y="0.6"/>
+        <point x="5.9" y="3.2"/>
+        <point x="5.9" y="3.0"/>
+        <point x="5.9" y="3.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1626,9 +1626,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="0.8"/>
-        <point x="7.9" y="0.7"/>
-        <point x="7.9" y="0.75"/>
+        <point x="6.1" y="3.3"/>
+        <point x="6.1" y="3.2"/>
+        <point x="6.1" y="3.25"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1650,9 +1650,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="0.7"/>
-        <point x="8.1" y="0.7"/>
-        <point x="8.0" y="0.7"/>
+        <point x="6.1" y="3.2"/>
+        <point x="6.3" y="3.2"/>
+        <point x="6.2" y="3.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1674,9 +1674,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="0.9"/>
-        <point x="5.8" y="0.7"/>
-        <point x="5.8" y="0.8"/>
+        <point x="4.0" y="3.4"/>
+        <point x="4.0" y="3.2"/>
+        <point x="4.0" y="3.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1698,9 +1698,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="0.9"/>
-        <point x="6.2" y="0.7"/>
-        <point x="6.2" y="0.8"/>
+        <point x="4.4" y="3.4"/>
+        <point x="4.4" y="3.2"/>
+        <point x="4.4" y="3.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1722,9 +1722,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="0.7"/>
-        <point x="7.5" y="0.8"/>
-        <point x="7.5" y="0.75"/>
+        <point x="5.7" y="3.2"/>
+        <point x="5.7" y="3.3"/>
+        <point x="5.7" y="3.25"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1746,9 +1746,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.5" y="1.4"/>
-        <point x="6.6" y="1.4"/>
-        <point x="6.55" y="1.4"/>
+        <point x="4.7" y="3.9"/>
+        <point x="4.8" y="3.9"/>
+        <point x="4.75" y="3.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1770,9 +1770,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.2" y="1.4"/>
-        <point x="7.1" y="1.4"/>
-        <point x="7.15" y="1.4"/>
+        <point x="5.4" y="3.9"/>
+        <point x="5.3" y="3.9"/>
+        <point x="5.35" y="3.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1794,9 +1794,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.6" y="1.4"/>
-        <point x="6.6" y="1.1"/>
-        <point x="6.6" y="1.25"/>
+        <point x="4.8" y="3.9"/>
+        <point x="4.8" y="3.6"/>
+        <point x="4.8" y="3.75"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1818,9 +1818,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.1" y="1.4"/>
-        <point x="7.1" y="1.1"/>
-        <point x="7.1" y="1.25"/>
+        <point x="5.3" y="3.9"/>
+        <point x="5.3" y="3.6"/>
+        <point x="5.3" y="3.75"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1842,9 +1842,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.8" y="3.0"/>
-        <point x="6.8" y="2.8"/>
-        <point x="6.8" y="2.9"/>
+        <point x="5.0" y="5.5"/>
+        <point x="5.0" y="5.3"/>
+        <point x="5.0" y="5.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1866,9 +1866,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="5.1"/>
-        <point x="6.3" y="5.1"/>
-        <point x="6.25" y="5.1"/>
+        <point x="4.4" y="7.6"/>
+        <point x="4.5" y="7.6"/>
+        <point x="4.45" y="7.6"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1890,9 +1890,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="4.9"/>
-        <point x="6.3" y="4.9"/>
-        <point x="6.25" y="4.9"/>
+        <point x="4.4" y="7.4"/>
+        <point x="4.5" y="7.4"/>
+        <point x="4.45" y="7.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1914,9 +1914,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.0" y="5.1"/>
-        <point x="7.9" y="4.9"/>
-        <point x="7.95" y="5.0"/>
+        <point x="6.2" y="7.6"/>
+        <point x="6.1" y="7.4"/>
+        <point x="6.15" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1936,9 +1936,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="4.9"/>
-        <point x="7.8" y="4.9"/>
-        <point x="7.85" y="4.9"/>
+        <point x="6.1" y="7.4"/>
+        <point x="6.0" y="7.4"/>
+        <point x="6.05" y="7.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1960,9 +1960,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="5.1"/>
-        <point x="7.3" y="5.1"/>
-        <point x="7.4" y="5.1"/>
+        <point x="5.7" y="7.6"/>
+        <point x="5.5" y="7.6"/>
+        <point x="5.6" y="7.6"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1984,9 +1984,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.2" y="4.8"/>
-        <point x="7.1" y="4.8"/>
-        <point x="7.15" y="4.8"/>
+        <point x="5.4" y="7.3"/>
+        <point x="5.3" y="7.3"/>
+        <point x="5.35" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2008,9 +2008,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.2" y="5.5"/>
-        <point x="7.1" y="5.5"/>
-        <point x="7.15" y="5.5"/>
+        <point x="5.4" y="8.0"/>
+        <point x="5.3" y="8.0"/>
+        <point x="5.35" y="8.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2032,9 +2032,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.2" y="4.8"/>
-        <point x="7.4" y="4.8"/>
-        <point x="7.3" y="4.8"/>
+        <point x="5.4" y="7.3"/>
+        <point x="5.6" y="7.3"/>
+        <point x="5.5" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2056,9 +2056,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="4.8"/>
-        <point x="7.9" y="4.8"/>
-        <point x="8.0" y="4.8"/>
+        <point x="6.3" y="7.3"/>
+        <point x="6.1" y="7.3"/>
+        <point x="6.2" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2080,9 +2080,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="5.5"/>
-        <point x="5.6" y="4.6"/>
-        <point x="5.6" y="5.05"/>
+        <point x="3.8" y="8.0"/>
+        <point x="3.8" y="7.1"/>
+        <point x="3.8" y="7.55"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2102,9 +2102,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.3" y="4.8"/>
-        <point x="6.3" y="4.6"/>
-        <point x="6.3" y="4.7"/>
+        <point x="4.5" y="7.3"/>
+        <point x="4.5" y="7.1"/>
+        <point x="4.5" y="7.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2124,9 +2124,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="4.6"/>
-        <point x="6.0" y="4.6"/>
-        <point x="5.9" y="4.6"/>
+        <point x="4.0" y="7.1"/>
+        <point x="4.2" y="7.1"/>
+        <point x="4.1" y="7.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2148,9 +2148,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.3" y="4.6"/>
-        <point x="6.1" y="4.6"/>
-        <point x="6.2" y="4.6"/>
+        <point x="4.5" y="7.1"/>
+        <point x="4.3" y="7.1"/>
+        <point x="4.4" y="7.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2172,9 +2172,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.3" y="4.9"/>
-        <point x="6.4" y="5.1"/>
-        <point x="6.35" y="5.0"/>
+        <point x="4.5" y="7.4"/>
+        <point x="4.6" y="7.6"/>
+        <point x="4.55" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2194,9 +2194,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.3" y="5.1"/>
-        <point x="6.4" y="5.1"/>
-        <point x="6.35" y="5.1"/>
+        <point x="4.5" y="7.6"/>
+        <point x="4.6" y="7.6"/>
+        <point x="4.55" y="7.6"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2218,9 +2218,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="5.0"/>
-        <point x="6.6" y="5.0"/>
-        <point x="6.4" y="5.0"/>
+        <point x="4.4" y="7.5"/>
+        <point x="4.8" y="7.5"/>
+        <point x="4.6" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2240,9 +2240,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.7" y="5.0"/>
-        <point x="6.9" y="5.0"/>
-        <point x="6.8" y="5.0"/>
+        <point x="4.9" y="7.5"/>
+        <point x="5.1" y="7.5"/>
+        <point x="5.0" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2262,9 +2262,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="4.6"/>
-        <point x="7.4" y="4.8"/>
-        <point x="7.45" y="4.7"/>
+        <point x="5.7" y="7.1"/>
+        <point x="5.6" y="7.3"/>
+        <point x="5.65" y="7.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2284,9 +2284,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.8" y="4.6"/>
-        <point x="7.9" y="4.8"/>
-        <point x="7.85" y="4.7"/>
+        <point x="6.0" y="7.1"/>
+        <point x="6.1" y="7.3"/>
+        <point x="6.05" y="7.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2306,9 +2306,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.5" y="4.8"/>
-        <point x="6.6" y="4.8"/>
-        <point x="6.55" y="4.8"/>
+        <point x="4.7" y="7.3"/>
+        <point x="4.8" y="7.3"/>
+        <point x="4.75" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2330,9 +2330,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.3" y="4.6"/>
-        <point x="8.4" y="4.6"/>
-        <point x="8.35" y="4.6"/>
+        <point x="6.5" y="7.1"/>
+        <point x="6.6" y="7.1"/>
+        <point x="6.55" y="7.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2354,9 +2354,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.3" y="5.1"/>
-        <point x="8.4" y="5.1"/>
-        <point x="8.35" y="5.1"/>
+        <point x="6.5" y="7.6"/>
+        <point x="6.6" y="7.6"/>
+        <point x="6.55" y="7.6"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2378,9 +2378,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.7" y="5.0"/>
-        <point x="6.6" y="5.0"/>
-        <point x="6.65" y="5.0"/>
+        <point x="4.9" y="7.5"/>
+        <point x="4.8" y="7.5"/>
+        <point x="4.85" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2402,9 +2402,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.9" y="5.0"/>
-        <point x="7.0" y="5.0"/>
-        <point x="6.95" y="5.0"/>
+        <point x="5.1" y="7.5"/>
+        <point x="5.2" y="7.5"/>
+        <point x="5.15" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2426,9 +2426,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.3" y="7.4"/>
-        <point x="5.4" y="7.4"/>
-        <point x="5.35" y="7.4"/>
+        <point x="3.5" y="9.9"/>
+        <point x="3.6" y="9.9"/>
+        <point x="3.55" y="9.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2450,9 +2450,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.3" y="6.9"/>
-        <point x="5.4" y="6.9"/>
-        <point x="5.35" y="6.9"/>
+        <point x="3.5" y="9.4"/>
+        <point x="3.6" y="9.4"/>
+        <point x="3.55" y="9.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2474,9 +2474,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="5.5"/>
-        <point x="5.3" y="5.5"/>
-        <point x="5.45" y="5.5"/>
+        <point x="3.8" y="8.0"/>
+        <point x="3.5" y="8.0"/>
+        <point x="3.65" y="8.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2498,9 +2498,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.4" y="3.9"/>
-        <point x="5.6" y="3.9"/>
-        <point x="5.5" y="3.9"/>
+        <point x="3.6" y="6.4"/>
+        <point x="3.8" y="6.4"/>
+        <point x="3.7" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2522,9 +2522,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.7" y="3.9"/>
-        <point x="5.9" y="3.9"/>
-        <point x="5.8" y="3.9"/>
+        <point x="3.9" y="6.4"/>
+        <point x="4.1" y="6.4"/>
+        <point x="4.0" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2546,9 +2546,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="3.9"/>
-        <point x="6.2" y="3.9"/>
-        <point x="6.1" y="3.9"/>
+        <point x="4.2" y="6.4"/>
+        <point x="4.4" y="6.4"/>
+        <point x="4.3" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2570,9 +2570,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.3" y="3.9"/>
-        <point x="6.5" y="3.9"/>
-        <point x="6.4" y="3.9"/>
+        <point x="4.5" y="6.4"/>
+        <point x="4.7" y="6.4"/>
+        <point x="4.6" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2594,9 +2594,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.3" y="3.6"/>
-        <point x="8.2" y="3.6"/>
-        <point x="6.75" y="3.6"/>
+        <point x="3.5" y="6.1"/>
+        <point x="6.4" y="6.1"/>
+        <point x="4.95" y="6.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2618,9 +2618,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.6" y="3.9"/>
-        <point x="6.8" y="3.9"/>
-        <point x="6.7" y="3.9"/>
+        <point x="4.8" y="6.4"/>
+        <point x="5.0" y="6.4"/>
+        <point x="4.9" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2642,9 +2642,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.9" y="3.9"/>
-        <point x="7.1" y="3.9"/>
-        <point x="7.0" y="3.9"/>
+        <point x="5.1" y="6.4"/>
+        <point x="5.3" y="6.4"/>
+        <point x="5.2" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2666,9 +2666,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.2" y="3.9"/>
-        <point x="7.4" y="3.9"/>
-        <point x="7.3" y="3.9"/>
+        <point x="5.4" y="6.4"/>
+        <point x="5.6" y="6.4"/>
+        <point x="5.5" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2684,15 +2684,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>0c954933-3d23-41c2-9b0c-d6633ba414ae</id>
+      <id>3faeced3-d182-4a2e-b9cb-63ed64a79bd3</id>
       <name>Trace90</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="3.9"/>
-        <point x="7.7" y="3.9"/>
-        <point x="7.6" y="3.9"/>
+        <point x="5.7" y="6.4"/>
+        <point x="5.9" y="6.4"/>
+        <point x="5.8" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2708,15 +2708,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>0c954933-3d23-41c2-9b0c-d6633ba414ae</id>
+      <id>fda13d97-0a94-4b9e-9703-70b13312509e</id>
       <name>Trace91</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.8" y="3.9"/>
-        <point x="8.0" y="3.9"/>
-        <point x="7.9" y="3.9"/>
+        <point x="6.0" y="6.4"/>
+        <point x="6.2" y="6.4"/>
+        <point x="6.1" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2732,15 +2732,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>0c954933-3d23-41c2-9b0c-d6633ba414ae</id>
+      <id>c79a8ce4-6628-4ad1-8501-c7c4f8b1acfc</id>
       <name>Trace92</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="3.9"/>
-        <point x="8.3" y="3.9"/>
-        <point x="8.2" y="3.9"/>
+        <point x="6.3" y="6.4"/>
+        <point x="6.5" y="6.4"/>
+        <point x="6.4" y="6.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2762,9 +2762,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="3.9"/>
-        <point x="5.5" y="4.0"/>
-        <point x="5.5" y="3.95"/>
+        <point x="3.7" y="6.4"/>
+        <point x="3.7" y="6.5"/>
+        <point x="3.7" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2786,9 +2786,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="3.9"/>
-        <point x="5.8" y="4.0"/>
-        <point x="5.8" y="3.95"/>
+        <point x="4.0" y="6.4"/>
+        <point x="4.0" y="6.5"/>
+        <point x="4.0" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2804,15 +2804,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</id>
+      <id>f4a56f90-a1ec-482f-a29e-642e30bded4e</id>
       <name>Trace95</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.1" y="3.9"/>
-        <point x="6.1" y="4.0"/>
-        <point x="6.1" y="3.95"/>
+        <point x="4.3" y="6.4"/>
+        <point x="4.3" y="6.5"/>
+        <point x="4.3" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2828,15 +2828,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</id>
+      <id>947f09d3-80f5-4841-a9f1-3aa8a5bdb41e</id>
       <name>Trace96</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="3.9"/>
-        <point x="6.4" y="4.0"/>
-        <point x="6.4" y="3.95"/>
+        <point x="4.6" y="6.4"/>
+        <point x="4.6" y="6.5"/>
+        <point x="4.6" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2852,15 +2852,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</id>
+      <id>d93061d5-e4e1-4ced-b676-a6856bf90320</id>
       <name>Trace97</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.7" y="3.9"/>
-        <point x="6.7" y="4.0"/>
-        <point x="6.7" y="3.95"/>
+        <point x="4.9" y="6.4"/>
+        <point x="4.9" y="6.5"/>
+        <point x="4.9" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2876,15 +2876,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</id>
+      <id>3a6ce5ec-a75d-4a66-a2d8-8a8b610c8e7a</id>
       <name>Trace98</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.0" y="3.9"/>
-        <point x="7.0" y="4.0"/>
-        <point x="7.0" y="3.95"/>
+        <point x="5.2" y="6.4"/>
+        <point x="5.2" y="6.5"/>
+        <point x="5.2" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2900,15 +2900,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</id>
+      <id>3b2828b5-e34d-4704-88e0-5f5d69dc1684</id>
       <name>Trace99</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="3.9"/>
-        <point x="7.3" y="4.0"/>
-        <point x="7.3" y="3.95"/>
+        <point x="5.5" y="6.4"/>
+        <point x="5.5" y="6.5"/>
+        <point x="5.5" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2924,15 +2924,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</id>
+      <id>d8a21aca-5672-4692-9c11-82bcffeee0ce</id>
       <name>Trace100</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.6" y="3.9"/>
-        <point x="7.6" y="4.0"/>
-        <point x="7.6" y="3.95"/>
+        <point x="5.8" y="6.4"/>
+        <point x="5.8" y="6.5"/>
+        <point x="5.8" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2948,15 +2948,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</id>
+      <id>73ba4951-91ea-4c25-81e4-2f1011fecb2e</id>
       <name>Trace101</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="3.9"/>
-        <point x="7.9" y="4.0"/>
-        <point x="7.9" y="3.95"/>
+        <point x="6.1" y="6.4"/>
+        <point x="6.1" y="6.5"/>
+        <point x="6.1" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2972,15 +2972,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</id>
+      <id>668c3ed3-2dea-41ef-96f6-5ae81a4bd895</id>
       <name>Trace102</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="3.9"/>
-        <point x="8.2" y="4.0"/>
-        <point x="8.2" y="3.95"/>
+        <point x="6.4" y="6.4"/>
+        <point x="6.4" y="6.5"/>
+        <point x="6.4" y="6.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3002,9 +3002,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="3.9"/>
-        <point x="5.5" y="3.8"/>
-        <point x="5.5" y="3.85"/>
+        <point x="3.7" y="6.4"/>
+        <point x="3.7" y="6.3"/>
+        <point x="3.7" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3026,9 +3026,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="3.9"/>
-        <point x="5.8" y="3.8"/>
-        <point x="5.8" y="3.85"/>
+        <point x="4.0" y="6.4"/>
+        <point x="4.0" y="6.3"/>
+        <point x="4.0" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3044,15 +3044,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</id>
+      <id>424bccd6-4ac0-4a56-8776-dc0d9436335f</id>
       <name>Trace105</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.1" y="3.9"/>
-        <point x="6.1" y="3.8"/>
-        <point x="6.1" y="3.85"/>
+        <point x="4.3" y="6.4"/>
+        <point x="4.3" y="6.3"/>
+        <point x="4.3" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3068,15 +3068,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</id>
+      <id>ecc5daa5-7e9c-4732-9aca-223f3479aa08</id>
       <name>Trace106</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="3.9"/>
-        <point x="6.4" y="3.8"/>
-        <point x="6.4" y="3.85"/>
+        <point x="4.6" y="6.4"/>
+        <point x="4.6" y="6.3"/>
+        <point x="4.6" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3092,15 +3092,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</id>
+      <id>6bbd5b68-f095-45ae-8106-6e7fee4e9961</id>
       <name>Trace107</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.7" y="3.9"/>
-        <point x="6.7" y="3.8"/>
-        <point x="6.7" y="3.85"/>
+        <point x="4.9" y="6.4"/>
+        <point x="4.9" y="6.3"/>
+        <point x="4.9" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3116,15 +3116,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</id>
+      <id>61fb38dc-e6fa-47df-ad8d-bbe329456a21</id>
       <name>Trace108</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.0" y="3.9"/>
-        <point x="7.0" y="3.8"/>
-        <point x="7.0" y="3.85"/>
+        <point x="5.2" y="6.4"/>
+        <point x="5.2" y="6.3"/>
+        <point x="5.2" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3140,15 +3140,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</id>
+      <id>4eb8a225-cffd-46ba-b972-cbfa6c96c6ed</id>
       <name>Trace109</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="3.9"/>
-        <point x="7.3" y="3.8"/>
-        <point x="7.3" y="3.85"/>
+        <point x="5.5" y="6.4"/>
+        <point x="5.5" y="6.3"/>
+        <point x="5.5" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3164,15 +3164,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</id>
+      <id>d6e9b723-ceba-4d04-9fb2-cfa2a8768166</id>
       <name>Trace110</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.6" y="3.9"/>
-        <point x="7.6" y="3.8"/>
-        <point x="7.6" y="3.85"/>
+        <point x="5.8" y="6.4"/>
+        <point x="5.8" y="6.3"/>
+        <point x="5.8" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3188,15 +3188,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</id>
+      <id>4d5b12df-af9b-4ac4-8eb1-971d4b858c7d</id>
       <name>Trace111</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="3.9"/>
-        <point x="7.9" y="3.8"/>
-        <point x="7.9" y="3.85"/>
+        <point x="6.1" y="6.4"/>
+        <point x="6.1" y="6.3"/>
+        <point x="6.1" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3212,15 +3212,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</id>
+      <id>5c53fef0-b412-4467-a763-56163b945fed</id>
       <name>Trace112</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="3.9"/>
-        <point x="8.2" y="3.8"/>
-        <point x="8.2" y="3.85"/>
+        <point x="6.4" y="6.4"/>
+        <point x="6.4" y="6.3"/>
+        <point x="6.4" y="6.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3242,9 +3242,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="4.3"/>
-        <point x="5.5" y="4.4"/>
-        <point x="5.5" y="4.35"/>
+        <point x="3.7" y="6.8"/>
+        <point x="3.7" y="6.9"/>
+        <point x="3.7" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3266,9 +3266,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="4.3"/>
-        <point x="5.8" y="4.4"/>
-        <point x="5.8" y="4.35"/>
+        <point x="4.0" y="6.8"/>
+        <point x="4.0" y="6.9"/>
+        <point x="4.0" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3290,9 +3290,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.1" y="4.3"/>
-        <point x="6.1" y="4.4"/>
-        <point x="6.1" y="4.35"/>
+        <point x="4.3" y="6.8"/>
+        <point x="4.3" y="6.9"/>
+        <point x="4.3" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3308,15 +3308,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>af70018d-5726-4d2a-8658-8c956d69eb46</id>
+      <id>4dbbe651-3bd2-4ae2-b2ba-754c93cb070e</id>
       <name>Trace116</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="4.3"/>
-        <point x="6.4" y="4.4"/>
-        <point x="6.4" y="4.35"/>
+        <point x="4.6" y="6.8"/>
+        <point x="4.6" y="6.9"/>
+        <point x="4.6" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3332,15 +3332,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>af70018d-5726-4d2a-8658-8c956d69eb46</id>
+      <id>ca0e014f-dff0-4ded-bfdc-21c1741ba880</id>
       <name>Trace117</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.7" y="4.3"/>
-        <point x="6.7" y="4.4"/>
-        <point x="6.7" y="4.35"/>
+        <point x="4.9" y="6.8"/>
+        <point x="4.9" y="6.9"/>
+        <point x="4.9" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3356,15 +3356,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>af70018d-5726-4d2a-8658-8c956d69eb46</id>
+      <id>29330658-de67-4dff-a64e-751c9fc5024b</id>
       <name>Trace118</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.0" y="4.3"/>
-        <point x="7.0" y="4.4"/>
-        <point x="7.0" y="4.35"/>
+        <point x="5.2" y="6.8"/>
+        <point x="5.2" y="6.9"/>
+        <point x="5.2" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3380,15 +3380,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>af70018d-5726-4d2a-8658-8c956d69eb46</id>
+      <id>22a8ec94-c8cf-4d02-85ee-37246a71e7e2</id>
       <name>Trace119</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="4.3"/>
-        <point x="7.3" y="4.4"/>
-        <point x="7.3" y="4.35"/>
+        <point x="5.5" y="6.8"/>
+        <point x="5.5" y="6.9"/>
+        <point x="5.5" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3404,15 +3404,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>af70018d-5726-4d2a-8658-8c956d69eb46</id>
+      <id>459d9e6c-0064-4f27-a60d-b57ee7098a79</id>
       <name>Trace120</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.6" y="4.3"/>
-        <point x="7.6" y="4.4"/>
-        <point x="7.6" y="4.35"/>
+        <point x="5.8" y="6.8"/>
+        <point x="5.8" y="6.9"/>
+        <point x="5.8" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3428,15 +3428,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>af70018d-5726-4d2a-8658-8c956d69eb46</id>
+      <id>56ea3a8d-4e0b-4fa3-baa1-a6e5202befe9</id>
       <name>Trace121</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="4.3"/>
-        <point x="7.9" y="4.4"/>
-        <point x="7.9" y="4.35"/>
+        <point x="6.1" y="6.8"/>
+        <point x="6.1" y="6.9"/>
+        <point x="6.1" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3452,15 +3452,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>af70018d-5726-4d2a-8658-8c956d69eb46</id>
+      <id>b575a3ca-1544-402a-bab3-4870b1473952</id>
       <name>Trace122</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="4.3"/>
-        <point x="8.2" y="4.4"/>
-        <point x="8.2" y="4.35"/>
+        <point x="6.4" y="6.8"/>
+        <point x="6.4" y="6.9"/>
+        <point x="6.4" y="6.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3482,9 +3482,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="3.7"/>
-        <point x="5.5" y="3.6"/>
-        <point x="5.5" y="3.65"/>
+        <point x="3.7" y="6.2"/>
+        <point x="3.7" y="6.1"/>
+        <point x="3.7" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3506,9 +3506,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="3.6"/>
-        <point x="5.8" y="3.7"/>
-        <point x="5.8" y="3.65"/>
+        <point x="4.0" y="6.1"/>
+        <point x="4.0" y="6.2"/>
+        <point x="4.0" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3530,9 +3530,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="3.7"/>
-        <point x="6.4" y="3.6"/>
-        <point x="6.4" y="3.65"/>
+        <point x="4.6" y="6.2"/>
+        <point x="4.6" y="6.1"/>
+        <point x="4.6" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3554,9 +3554,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.1" y="3.7"/>
-        <point x="6.1" y="3.6"/>
-        <point x="6.1" y="3.65"/>
+        <point x="4.3" y="6.2"/>
+        <point x="4.3" y="6.1"/>
+        <point x="4.3" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3578,9 +3578,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.7" y="3.7"/>
-        <point x="6.7" y="3.6"/>
-        <point x="6.7" y="3.65"/>
+        <point x="4.9" y="6.2"/>
+        <point x="4.9" y="6.1"/>
+        <point x="4.9" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3602,9 +3602,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.0" y="3.7"/>
-        <point x="7.0" y="3.6"/>
-        <point x="7.0" y="3.65"/>
+        <point x="5.2" y="6.2"/>
+        <point x="5.2" y="6.1"/>
+        <point x="5.2" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3626,9 +3626,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="3.7"/>
-        <point x="7.3" y="3.6"/>
-        <point x="7.3" y="3.65"/>
+        <point x="5.5" y="6.2"/>
+        <point x="5.5" y="6.1"/>
+        <point x="5.5" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3650,9 +3650,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.6" y="3.7"/>
-        <point x="7.6" y="3.6"/>
-        <point x="7.6" y="3.65"/>
+        <point x="5.8" y="6.2"/>
+        <point x="5.8" y="6.1"/>
+        <point x="5.8" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3674,9 +3674,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="3.7"/>
-        <point x="7.9" y="3.6"/>
-        <point x="7.9" y="3.65"/>
+        <point x="6.1" y="6.2"/>
+        <point x="6.1" y="6.1"/>
+        <point x="6.1" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3698,9 +3698,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="3.7"/>
-        <point x="8.2" y="3.6"/>
-        <point x="8.2" y="3.65"/>
+        <point x="6.4" y="6.2"/>
+        <point x="6.4" y="6.1"/>
+        <point x="6.4" y="6.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3722,9 +3722,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.8" y="3.4"/>
-        <point x="6.8" y="3.5"/>
-        <point x="6.8" y="3.45"/>
+        <point x="5.0" y="5.9"/>
+        <point x="5.0" y="6.0"/>
+        <point x="5.0" y="5.95"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3746,9 +3746,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.9" y="3.4"/>
-        <point x="6.9" y="3.5"/>
-        <point x="6.9" y="3.45"/>
+        <point x="5.1" y="5.9"/>
+        <point x="5.1" y="6.0"/>
+        <point x="5.1" y="5.95"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3770,9 +3770,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="3.3"/>
-        <point x="7.3" y="3.4"/>
-        <point x="7.3" y="3.35"/>
+        <point x="5.5" y="5.8"/>
+        <point x="5.5" y="5.9"/>
+        <point x="5.5" y="5.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3788,15 +3788,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>cfe1f485-4bc9-4fae-afbc-f84ea3a18968</id>
       <name>Trace136</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="3.3"/>
-        <point x="7.7" y="3.4"/>
-        <point x="7.7" y="3.35"/>
+        <point x="5.9" y="5.8"/>
+        <point x="5.9" y="5.9"/>
+        <point x="5.9" y="5.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3812,15 +3812,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>e10ef84c-ba3d-47da-9a06-744f4f3299cc</id>
       <name>Trace137</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="3.3"/>
-        <point x="8.1" y="3.4"/>
-        <point x="8.1" y="3.35"/>
+        <point x="6.3" y="5.8"/>
+        <point x="6.3" y="5.9"/>
+        <point x="6.3" y="5.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3836,15 +3836,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>b8699057-a33b-4a07-bb94-c3771932fb6b</id>
       <name>Trace138</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="2.8"/>
-        <point x="8.2" y="2.9"/>
-        <point x="8.2" y="2.85"/>
+        <point x="6.4" y="5.3"/>
+        <point x="6.4" y="5.4"/>
+        <point x="6.4" y="5.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3860,15 +3860,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>0b3dd3a1-d214-4901-af1a-67d46a9c094d</id>
       <name>Trace139</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="2.8"/>
-        <point x="7.9" y="2.9"/>
-        <point x="7.9" y="2.85"/>
+        <point x="6.1" y="5.3"/>
+        <point x="6.1" y="5.4"/>
+        <point x="6.1" y="5.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3884,15 +3884,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>83f84cae-d7cb-40d3-9716-ca0a80f4c22f</id>
       <name>Trace140</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="3.3"/>
-        <point x="6.4" y="3.4"/>
-        <point x="6.4" y="3.35"/>
+        <point x="4.6" y="5.8"/>
+        <point x="4.6" y="5.9"/>
+        <point x="4.6" y="5.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3908,15 +3908,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>4b02b129-de37-4fc2-a935-9905b0376233</id>
       <name>Trace141</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="3.3"/>
-        <point x="6.0" y="3.4"/>
-        <point x="6.0" y="3.35"/>
+        <point x="4.2" y="5.8"/>
+        <point x="4.2" y="5.9"/>
+        <point x="4.2" y="5.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3932,15 +3932,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>4c6c055c-c368-4ad1-b681-02cc58029c7e</id>
       <name>Trace142</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="3.3"/>
-        <point x="5.6" y="3.4"/>
-        <point x="5.6" y="3.35"/>
+        <point x="3.8" y="5.8"/>
+        <point x="3.8" y="5.9"/>
+        <point x="3.8" y="5.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3956,15 +3956,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>4162a41b-c222-4f00-b150-4bafbfc3d615</id>
       <name>Trace143</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="2.8"/>
-        <point x="5.8" y="2.9"/>
-        <point x="5.8" y="2.85"/>
+        <point x="4.0" y="5.3"/>
+        <point x="4.0" y="5.4"/>
+        <point x="4.0" y="5.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -3980,15 +3980,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>cf0264b6-3a73-4f89-b9bb-6c99ee612bfa</id>
       <name>Trace144</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="2.8"/>
-        <point x="5.5" y="2.9"/>
-        <point x="5.5" y="2.85"/>
+        <point x="3.7" y="5.3"/>
+        <point x="3.7" y="5.4"/>
+        <point x="3.7" y="5.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4004,15 +4004,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>0b2c0ac4-f773-4028-be23-d3c4a03c3535</id>
       <name>Trace145</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.5" y="1.8"/>
-        <point x="6.5" y="1.9"/>
-        <point x="6.5" y="1.85"/>
+        <point x="4.7" y="4.3"/>
+        <point x="4.7" y="4.4"/>
+        <point x="4.7" y="4.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4028,15 +4028,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>d8126d00-fb91-49cd-9808-005aaff961fd</id>
       <name>Trace146</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.2" y="1.8"/>
-        <point x="7.2" y="1.9"/>
-        <point x="7.2" y="1.85"/>
+        <point x="5.4" y="4.3"/>
+        <point x="5.4" y="4.4"/>
+        <point x="5.4" y="4.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4052,15 +4052,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>246fa3da-fa4c-41e8-8c36-4c678a65c4cf</id>
       <name>Trace147</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.5" y="1.2"/>
-        <point x="7.5" y="1.3"/>
-        <point x="7.5" y="1.25"/>
+        <point x="5.7" y="3.7"/>
+        <point x="5.7" y="3.8"/>
+        <point x="5.7" y="3.75"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4076,15 +4076,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>2230e996-e898-414c-b38e-bfd0c9209dda</id>
       <name>Trace148</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="1.1"/>
-        <point x="7.7" y="1.2"/>
-        <point x="7.7" y="1.15"/>
+        <point x="5.9" y="3.6"/>
+        <point x="5.9" y="3.7"/>
+        <point x="5.9" y="3.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4100,15 +4100,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>0cf8cf56-3b3f-4134-8391-f37515a9f7d9</id>
       <name>Trace149</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="1.2"/>
-        <point x="7.9" y="1.3"/>
-        <point x="7.9" y="1.25"/>
+        <point x="6.1" y="3.7"/>
+        <point x="6.1" y="3.8"/>
+        <point x="6.1" y="3.75"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4124,15 +4124,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>1fc01c2e-b201-41fc-8deb-cbee3e1144a7</id>
       <name>Trace150</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="1.2"/>
-        <point x="6.2" y="1.3"/>
-        <point x="6.2" y="1.25"/>
+        <point x="4.4" y="3.7"/>
+        <point x="4.4" y="3.8"/>
+        <point x="4.4" y="3.75"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4148,15 +4148,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>2697067c-729b-4ee8-8fcf-bd93f6807109</id>
       <name>Trace151</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="1.1"/>
-        <point x="6.0" y="1.2"/>
-        <point x="6.0" y="1.15"/>
+        <point x="4.2" y="3.6"/>
+        <point x="4.2" y="3.7"/>
+        <point x="4.2" y="3.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4172,15 +4172,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>330dc3a9-3e5c-430e-beb1-a0ed750760c9</id>
       <name>Trace152</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="1.2"/>
-        <point x="5.8" y="1.3"/>
-        <point x="5.8" y="1.25"/>
+        <point x="4.0" y="3.7"/>
+        <point x="4.0" y="3.8"/>
+        <point x="4.0" y="3.75"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4202,9 +4202,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="2.4"/>
-        <point x="5.5" y="2.3"/>
-        <point x="5.5" y="2.35"/>
+        <point x="3.7" y="4.9"/>
+        <point x="3.7" y="4.8"/>
+        <point x="3.7" y="4.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4220,15 +4220,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>8ceb2821-a54e-43ca-ba59-1f710bb37615</id>
       <name>Trace154</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="1.5"/>
-        <point x="5.6" y="1.6"/>
-        <point x="5.6" y="1.55"/>
+        <point x="3.8" y="4.0"/>
+        <point x="3.8" y="4.1"/>
+        <point x="3.8" y="4.05"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4244,15 +4244,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>2f1cc083-a268-484e-b6ae-d40aeec4b86a</id>
       <name>Trace155</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.5" y="1.1"/>
-        <point x="5.5" y="1.2"/>
-        <point x="5.5" y="1.15"/>
+        <point x="3.7" y="3.6"/>
+        <point x="3.7" y="3.7"/>
+        <point x="3.7" y="3.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4268,15 +4268,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>16b1500b-fb7c-4fde-a53d-8e1dcd57b142</id>
       <name>Trace156</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="2.3"/>
-        <point x="5.8" y="2.4"/>
-        <point x="5.8" y="2.35"/>
+        <point x="4.0" y="4.8"/>
+        <point x="4.0" y="4.9"/>
+        <point x="4.0" y="4.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4298,9 +4298,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="2.8"/>
-        <point x="6.0" y="2.9"/>
-        <point x="6.0" y="2.85"/>
+        <point x="4.2" y="5.3"/>
+        <point x="4.2" y="5.4"/>
+        <point x="4.2" y="5.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4322,9 +4322,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.9" y="3.0"/>
-        <point x="7.0" y="3.0"/>
-        <point x="6.95" y="3.0"/>
+        <point x="5.1" y="5.5"/>
+        <point x="5.2" y="5.5"/>
+        <point x="5.15" y="5.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4346,9 +4346,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="2.0"/>
-        <point x="5.8" y="1.9"/>
-        <point x="5.8" y="1.95"/>
+        <point x="4.0" y="4.5"/>
+        <point x="4.0" y="4.4"/>
+        <point x="4.0" y="4.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4370,9 +4370,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.0" y="2.4"/>
-        <point x="6.0" y="2.3"/>
-        <point x="6.0" y="2.35"/>
+        <point x="4.2" y="4.9"/>
+        <point x="4.2" y="4.8"/>
+        <point x="4.2" y="4.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4394,9 +4394,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="2.7"/>
-        <point x="6.4" y="2.6"/>
-        <point x="6.4" y="2.65"/>
+        <point x="4.6" y="5.2"/>
+        <point x="4.6" y="5.1"/>
+        <point x="4.6" y="5.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4418,9 +4418,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.4" y="2.9"/>
-        <point x="6.4" y="2.7"/>
-        <point x="6.4" y="2.8"/>
+        <point x="4.6" y="5.4"/>
+        <point x="4.6" y="5.2"/>
+        <point x="4.6" y="5.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4442,9 +4442,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.3" y="2.9"/>
-        <point x="7.3" y="2.6"/>
-        <point x="7.3" y="2.75"/>
+        <point x="5.5" y="5.4"/>
+        <point x="5.5" y="5.1"/>
+        <point x="5.5" y="5.25"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4466,9 +4466,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="2.4"/>
-        <point x="7.7" y="2.3"/>
-        <point x="7.7" y="2.35"/>
+        <point x="5.9" y="4.9"/>
+        <point x="5.9" y="4.8"/>
+        <point x="5.9" y="4.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4484,15 +4484,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>f52147b1-323f-4122-94b3-675be518c736</id>
       <name>Trace165</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.7" y="2.8"/>
-        <point x="7.7" y="2.9"/>
-        <point x="7.7" y="2.85"/>
+        <point x="5.9" y="5.3"/>
+        <point x="5.9" y="5.4"/>
+        <point x="5.9" y="5.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4508,15 +4508,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>73863db8-b444-41c8-9aa8-0c2f008c571b</id>
       <name>Trace166</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="2.3"/>
-        <point x="7.9" y="2.4"/>
-        <point x="7.9" y="2.35"/>
+        <point x="6.1" y="4.8"/>
+        <point x="6.1" y="4.9"/>
+        <point x="6.1" y="4.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4532,15 +4532,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>f2aac08b-d423-455c-8037-1759956fc8f5</id>
       <name>Trace167</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="2.8"/>
-        <point x="8.1" y="2.9"/>
-        <point x="8.1" y="2.85"/>
+        <point x="6.3" y="5.3"/>
+        <point x="6.3" y="5.4"/>
+        <point x="6.3" y="5.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4556,15 +4556,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>f201d519-737b-4022-a434-37b40f79cb9d</id>
       <name>Trace168</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="7.9" y="1.9"/>
-        <point x="7.9" y="2.0"/>
-        <point x="7.9" y="1.95"/>
+        <point x="6.1" y="4.4"/>
+        <point x="6.1" y="4.5"/>
+        <point x="6.1" y="4.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4580,15 +4580,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>eaad5944-17f6-44e7-b349-4aae3aa42d71</id>
       <name>Trace169</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.1" y="1.5"/>
-        <point x="8.1" y="1.6"/>
-        <point x="8.1" y="1.55"/>
+        <point x="6.3" y="4.0"/>
+        <point x="6.3" y="4.1"/>
+        <point x="6.3" y="4.05"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4604,15 +4604,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>4a2ab0ef-27d5-4590-ad39-201eb99b2d5e</id>
       <name>Trace170</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="2.3"/>
-        <point x="8.2" y="2.4"/>
-        <point x="8.2" y="2.35"/>
+        <point x="6.4" y="4.8"/>
+        <point x="6.4" y="4.9"/>
+        <point x="6.4" y="4.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4628,15 +4628,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>0ba5a568-ade9-4d09-9b8d-bd0f4ad0d582</id>
       <name>Trace171</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="8.2" y="1.1"/>
-        <point x="8.2" y="1.2"/>
-        <point x="8.2" y="1.15"/>
+        <point x="6.4" y="3.6"/>
+        <point x="6.4" y="3.7"/>
+        <point x="6.4" y="3.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4652,15 +4652,15 @@
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
     <diylc.connectivity.CopperTrace>
-      <id>d974c62e-6984-4e8b-a735-cbcc46143939</id>
+      <id>185dcedf-0713-44e4-b986-d6a0c76f4cd2</id>
       <name>Trace172</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.9" y="1.4"/>
-        <point x="6.9" y="1.6"/>
-        <point x="6.9" y="1.5"/>
+        <point x="5.1" y="3.9"/>
+        <point x="5.1" y="4.1"/>
+        <point x="5.1" y="4.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4682,9 +4682,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.9" y="1.6"/>
-        <point x="7.0" y="1.6"/>
-        <point x="6.95" y="1.6"/>
+        <point x="5.1" y="4.1"/>
+        <point x="5.2" y="4.1"/>
+        <point x="5.15" y="4.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4706,9 +4706,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.5" y="4.8"/>
-        <point x="6.3" y="4.8"/>
-        <point x="6.4" y="4.8"/>
+        <point x="4.7" y="7.3"/>
+        <point x="4.5" y="7.3"/>
+        <point x="4.6" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4730,9 +4730,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.6" y="5.5"/>
-        <point x="5.8" y="5.5"/>
-        <point x="5.7" y="5.5"/>
+        <point x="3.8" y="8.0"/>
+        <point x="4.0" y="8.0"/>
+        <point x="3.9" y="8.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4754,9 +4754,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.8" y="4.6"/>
-        <point x="5.6" y="4.6"/>
-        <point x="5.7" y="4.6"/>
+        <point x="4.0" y="7.1"/>
+        <point x="3.8" y="7.1"/>
+        <point x="3.9" y="7.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4778,9 +4778,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.9" y="5.4"/>
-        <point x="5.8" y="5.4"/>
-        <point x="5.85" y="5.4"/>
+        <point x="4.1" y="7.9"/>
+        <point x="4.0" y="7.9"/>
+        <point x="4.05" y="7.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4802,9 +4802,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.9" y="5.3"/>
-        <point x="5.8" y="5.3"/>
-        <point x="5.85" y="5.3"/>
+        <point x="4.1" y="7.8"/>
+        <point x="4.0" y="7.8"/>
+        <point x="4.05" y="7.8"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4826,9 +4826,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.9" y="5.2"/>
-        <point x="5.8" y="5.2"/>
-        <point x="5.85" y="5.2"/>
+        <point x="4.1" y="7.7"/>
+        <point x="4.0" y="7.7"/>
+        <point x="4.05" y="7.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4850,9 +4850,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.9" y="5.1"/>
-        <point x="5.8" y="5.1"/>
-        <point x="5.85" y="5.1"/>
+        <point x="4.1" y="7.6"/>
+        <point x="4.0" y="7.6"/>
+        <point x="4.05" y="7.6"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4874,9 +4874,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.9" y="5.0"/>
-        <point x="5.8" y="5.0"/>
-        <point x="5.85" y="5.0"/>
+        <point x="4.1" y="7.5"/>
+        <point x="4.0" y="7.5"/>
+        <point x="4.05" y="7.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4898,9 +4898,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.9" y="4.9"/>
-        <point x="5.8" y="4.9"/>
-        <point x="5.85" y="4.9"/>
+        <point x="4.1" y="7.4"/>
+        <point x="4.0" y="7.4"/>
+        <point x="4.05" y="7.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4922,9 +4922,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.9" y="4.8"/>
-        <point x="5.8" y="4.8"/>
-        <point x="5.85" y="4.8"/>
+        <point x="4.1" y="7.3"/>
+        <point x="4.0" y="7.3"/>
+        <point x="4.05" y="7.3"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4946,9 +4946,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="5.5"/>
-        <point x="6.3" y="5.5"/>
-        <point x="6.25" y="5.5"/>
+        <point x="4.4" y="8.0"/>
+        <point x="4.5" y="8.0"/>
+        <point x="4.45" y="8.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4970,9 +4970,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="5.4"/>
-        <point x="6.3" y="5.4"/>
-        <point x="6.25" y="5.4"/>
+        <point x="4.4" y="7.9"/>
+        <point x="4.5" y="7.9"/>
+        <point x="4.45" y="7.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -4994,9 +4994,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="6.2" y="5.3"/>
-        <point x="6.3" y="5.3"/>
-        <point x="6.25" y="5.3"/>
+        <point x="4.4" y="7.8"/>
+        <point x="4.5" y="7.8"/>
+        <point x="4.45" y="7.8"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -5019,11 +5019,11 @@
       </alphaPercent>
       <value></value>
       <controlPoints>
-        <point x="7.5" y="4.8"/>
-        <point x="7.8" y="5.1"/>
+        <point x="5.7" y="7.3"/>
+        <point x="6.0" y="7.6"/>
       </controlPoints>
-      <firstPoint x="7.5" y="4.8"/>
-      <secondPoint x="7.8" y="5.1"/>
+      <firstPoint x="5.7" y="7.3"/>
+      <secondPoint x="6.0" y="7.6"/>
       <color hex="666666"/>
       <borderColor hex="000000"/>
       <borderThickness value="0.2" unit="mm"/>
@@ -5037,56 +5037,56 @@
       <name>Dot1</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="7.5" y="4.8"/>
+      <point x="5.7" y="7.3"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>db4e8a90-d901-46f5-8d73-c95d68a8c534</id>
       <name>Dot2</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="7.5" y="4.9"/>
+      <point x="5.7" y="7.4"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>db4e8a90-d901-46f5-8d73-c95d68a8c534</id>
+      <id>30e8c008-e440-4177-b3e5-9c492b1565f7</id>
       <name>Dot3</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="7.5" y="5.0"/>
+      <point x="5.7" y="7.5"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>db4e8a90-d901-46f5-8d73-c95d68a8c534</id>
+      <id>b833688e-47a5-41ba-9597-e528a4572d06</id>
       <name>Dot4</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="7.5" y="5.1"/>
+      <point x="5.7" y="7.6"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>db4e8a90-d901-46f5-8d73-c95d68a8c534</id>
+      <id>887ea3bc-2102-4bd3-9083-eaf80d405593</id>
       <name>Dot5</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="7.8" y="4.8"/>
+      <point x="6.0" y="7.3"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>db4e8a90-d901-46f5-8d73-c95d68a8c534</id>
+      <id>5d3c6ee2-215b-4f93-bd82-1f7060c45d97</id>
       <name>Dot6</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="7.8" y="4.9"/>
+      <point x="6.0" y="7.4"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>db4e8a90-d901-46f5-8d73-c95d68a8c534</id>
+      <id>6c8fa29d-b083-47c2-a34e-867c22753e44</id>
       <name>Dot7</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="7.8" y="5.0"/>
+      <point x="6.0" y="7.5"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>db4e8a90-d901-46f5-8d73-c95d68a8c534</id>
+      <id>b1dd99cd-15eb-4570-bae0-31d2a6eba9e2</id>
       <name>Dot8</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="7.8" y="5.1"/>
+      <point x="6.0" y="7.6"/>
     </diylc.connectivity.Dot>
     <diylc.shapes.Rectangle>
       <id>cdcf150e-5328-44b3-ac6e-d3fc835ad0c5</id>
@@ -5094,11 +5094,11 @@
       <alphaPercent reference="../../diylc.shapes.Rectangle/alphaPercent"/>
       <value></value>
       <controlPoints>
-        <point x="5.9" y="4.8"/>
-        <point x="6.2" y="5.5"/>
+        <point x="4.1" y="7.3"/>
+        <point x="4.4" y="8.0"/>
       </controlPoints>
-      <firstPoint x="5.9" y="4.8"/>
-      <secondPoint x="6.2" y="5.5"/>
+      <firstPoint x="4.1" y="7.3"/>
+      <secondPoint x="4.4" y="8.0"/>
       <color hex="666666"/>
       <borderColor hex="000000"/>
       <borderThickness value="0.2" unit="mm"/>
@@ -5112,112 +5112,112 @@
       <name>Dot9</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.9" y="4.8"/>
+      <point x="4.1" y="7.3"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>111ca369-8f52-451e-a5dc-08a20c77c433</id>
       <name>Dot10</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.9" y="4.9"/>
+      <point x="4.1" y="7.4"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>996a7360-9af9-4120-bdd7-9d5b6b0ce776</id>
       <name>Dot11</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.9" y="5.0"/>
+      <point x="4.1" y="7.5"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>2a9012bf-694c-4fd8-8877-0646a8c45512</id>
       <name>Dot12</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.9" y="5.1"/>
+      <point x="4.1" y="7.6"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>3598baa4-af39-40bb-9a5a-2e79de130ec8</id>
       <name>Dot13</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="6.2" y="4.8"/>
+      <point x="4.4" y="7.3"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>a75d0976-fa21-48f3-9e83-28fc48db0f9b</id>
       <name>Dot14</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="6.2" y="4.9"/>
+      <point x="4.4" y="7.4"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>47d62c4d-ace3-40d2-b5f0-ebf7123f4b22</id>
       <name>Dot15</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="6.2" y="5.0"/>
+      <point x="4.4" y="7.5"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>4091b524-0755-4023-a08c-38e9b244bdf4</id>
       <name>Dot16</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="6.2" y="5.1"/>
+      <point x="4.4" y="7.6"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
       <id>4f5526e6-b03e-4dbc-aacb-49975c29168b</id>
       <name>Dot17</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="6.2" y="5.2"/>
+      <point x="4.4" y="7.7"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>4f5526e6-b03e-4dbc-aacb-49975c29168b</id>
+      <id>690f894c-a5a2-4c98-a6d8-83b29e6fa74d</id>
       <name>Dot18</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.9" y="5.2"/>
+      <point x="4.1" y="7.7"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>4f5526e6-b03e-4dbc-aacb-49975c29168b</id>
+      <id>fa7019bb-03c3-4fa5-b678-ae1e52ebf783</id>
       <name>Dot19</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.9" y="5.3"/>
+      <point x="4.1" y="7.8"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>4f5526e6-b03e-4dbc-aacb-49975c29168b</id>
+      <id>feb2e6f1-aaa0-4e79-808b-6d6575d996d2</id>
       <name>Dot20</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="6.2" y="5.3"/>
+      <point x="4.4" y="7.8"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>4f5526e6-b03e-4dbc-aacb-49975c29168b</id>
+      <id>55fe129a-674f-4e25-ba44-d1499705544c</id>
       <name>Dot21</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="6.2" y="5.4"/>
+      <point x="4.4" y="7.9"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>4f5526e6-b03e-4dbc-aacb-49975c29168b</id>
+      <id>ef213f0e-e8be-461f-a2b0-8ac5880ba02a</id>
       <name>Dot22</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.9" y="5.4"/>
+      <point x="4.1" y="7.9"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>4f5526e6-b03e-4dbc-aacb-49975c29168b</id>
+      <id>ea70dfff-7cb2-4b8e-990c-d1127922968c</id>
       <name>Dot23</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="6.2" y="5.5"/>
+      <point x="4.4" y="8.0"/>
     </diylc.connectivity.Dot>
     <diylc.connectivity.Dot>
-      <id>4f5526e6-b03e-4dbc-aacb-49975c29168b</id>
+      <id>46bbb015-c4ed-4f91-bc74-1885776deb18</id>
       <name>Dot24</name>
       <size value="1.0" unit="mm"/>
       <color hex="000000"/>
-      <point x="5.9" y="5.5"/>
+      <point x="4.1" y="8.0"/>
     </diylc.connectivity.Dot>
     <diylc.semiconductors.LED>
       <id>707e4869-7760-4e31-9b50-0e1e1f02a76e</id>
@@ -5228,9 +5228,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="6.8" y="1.4"/>
-        <point x="6.9" y="1.4"/>
-        <point x="6.85" y="1.4"/>
+        <point x="5.0" y="3.9"/>
+        <point x="5.1" y="3.9"/>
+        <point x="5.05" y="3.9"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5252,9 +5252,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="6.6" y="1.0"/>
-        <point x="6.6" y="1.1"/>
-        <point x="6.6" y="1.05"/>
+        <point x="4.8" y="3.5"/>
+        <point x="4.8" y="3.6"/>
+        <point x="4.8" y="3.55"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5268,7 +5268,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>1de9c0df-97f0-4bbd-8e40-a961155246fa</id>
       <name>D3</name>
       <alphaPercent>
         <value>100</value>
@@ -5276,9 +5276,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="7.1" y="1.0"/>
-        <point x="7.1" y="1.1"/>
-        <point x="7.1" y="1.05"/>
+        <point x="5.3" y="3.5"/>
+        <point x="5.3" y="3.6"/>
+        <point x="5.3" y="3.55"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5292,7 +5292,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>df9572e3-e523-46aa-b226-655902edabd1</id>
       <name>D4</name>
       <alphaPercent>
         <value>100</value>
@@ -5300,9 +5300,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="6.4" y="0.6"/>
-        <point x="6.4" y="0.7"/>
-        <point x="6.4" y="0.65"/>
+        <point x="4.6" y="3.1"/>
+        <point x="4.6" y="3.2"/>
+        <point x="4.6" y="3.15"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5316,7 +5316,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>ff47c518-0509-4bc4-8c2b-957ec29b2cdf</id>
       <name>D5</name>
       <alphaPercent>
         <value>100</value>
@@ -5324,9 +5324,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="7.3" y="0.6"/>
-        <point x="7.3" y="0.7"/>
-        <point x="7.3" y="0.65"/>
+        <point x="5.5" y="3.1"/>
+        <point x="5.5" y="3.2"/>
+        <point x="5.5" y="3.15"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5340,7 +5340,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>3473abad-b649-4ebe-a227-7054866a5b31</id>
       <name>D6</name>
       <alphaPercent>
         <value>100</value>
@@ -5348,9 +5348,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="6.0" y="0.4"/>
-        <point x="6.0" y="0.5"/>
-        <point x="6.0" y="0.45"/>
+        <point x="4.2" y="2.9"/>
+        <point x="4.2" y="3.0"/>
+        <point x="4.2" y="2.95"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5364,7 +5364,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>dbf90c1c-48d3-4f69-89e1-c1d2a26c45c2</id>
       <name>D7</name>
       <alphaPercent>
         <value>100</value>
@@ -5372,9 +5372,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="7.7" y="0.4"/>
-        <point x="7.7" y="0.5"/>
-        <point x="7.7" y="0.45"/>
+        <point x="5.9" y="2.9"/>
+        <point x="5.9" y="3.0"/>
+        <point x="5.9" y="2.95"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5388,7 +5388,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>3bfac81d-f397-4af6-817b-2455f9dffe4a</id>
       <name>D8</name>
       <alphaPercent>
         <value>100</value>
@@ -5396,9 +5396,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="5.6" y="0.6"/>
-        <point x="5.6" y="0.7"/>
-        <point x="5.6" y="0.65"/>
+        <point x="3.8" y="3.1"/>
+        <point x="3.8" y="3.2"/>
+        <point x="3.8" y="3.15"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5412,7 +5412,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>f40f7fd6-51f9-4af5-b637-a8e054e8ff20</id>
       <name>D12</name>
       <alphaPercent>
         <value>100</value>
@@ -5420,9 +5420,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="8.1" y="0.6"/>
-        <point x="8.1" y="0.7"/>
-        <point x="8.1" y="0.65"/>
+        <point x="6.3" y="3.1"/>
+        <point x="6.3" y="3.2"/>
+        <point x="6.3" y="3.15"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5436,7 +5436,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>5c5094fb-b661-4d68-bb28-cf8f901b0d83</id>
       <name>D9</name>
       <alphaPercent>
         <value>100</value>
@@ -5444,9 +5444,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="5.5" y="1.0"/>
-        <point x="5.5" y="1.1"/>
-        <point x="5.5" y="1.05"/>
+        <point x="3.7" y="3.5"/>
+        <point x="3.7" y="3.6"/>
+        <point x="3.7" y="3.55"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5460,7 +5460,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>81f9afbb-c696-4553-8d1d-bfbf33f2b148</id>
       <name>D10</name>
       <alphaPercent>
         <value>100</value>
@@ -5468,9 +5468,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="8.2" y="1.0"/>
-        <point x="8.2" y="1.1"/>
-        <point x="8.2" y="1.05"/>
+        <point x="6.4" y="3.5"/>
+        <point x="6.4" y="3.6"/>
+        <point x="6.4" y="3.55"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5484,7 +5484,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>88764127-7d42-4646-81f7-09bf1b7726e9</id>
       <name>D11</name>
       <alphaPercent>
         <value>100</value>
@@ -5492,9 +5492,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="5.6" y="1.4"/>
-        <point x="5.6" y="1.5"/>
-        <point x="5.6" y="1.45"/>
+        <point x="3.8" y="3.9"/>
+        <point x="3.8" y="4.0"/>
+        <point x="3.8" y="3.95"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5508,7 +5508,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>668914e2-d381-4c8f-a2a8-83728b56b7f6</id>
       <name>D13</name>
       <alphaPercent>
         <value>100</value>
@@ -5516,9 +5516,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="8.1" y="1.4"/>
-        <point x="8.1" y="1.5"/>
-        <point x="8.1" y="1.45"/>
+        <point x="6.3" y="3.9"/>
+        <point x="6.3" y="4.0"/>
+        <point x="6.3" y="3.95"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5532,7 +5532,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>76070c04-569e-49ae-bc6d-4de015b0d96a</id>
       <name>D14</name>
       <alphaPercent>
         <value>100</value>
@@ -5540,9 +5540,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="5.8" y="1.8"/>
-        <point x="5.8" y="1.9"/>
-        <point x="5.8" y="1.85"/>
+        <point x="4.0" y="4.3"/>
+        <point x="4.0" y="4.4"/>
+        <point x="4.0" y="4.35"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5556,7 +5556,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>05590df1-274f-4607-99dc-98b7864d4b68</id>
       <name>D15</name>
       <alphaPercent>
         <value>100</value>
@@ -5564,9 +5564,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="7.9" y="1.8"/>
-        <point x="7.9" y="1.9"/>
-        <point x="7.9" y="1.85"/>
+        <point x="6.1" y="4.3"/>
+        <point x="6.1" y="4.4"/>
+        <point x="6.1" y="4.35"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5580,7 +5580,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>13a51288-ed8c-4000-9c05-8f8ebd8f8ca7</id>
       <name>D16</name>
       <alphaPercent>
         <value>100</value>
@@ -5588,9 +5588,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="6.0" y="2.2"/>
-        <point x="6.0" y="2.3"/>
-        <point x="6.0" y="2.25"/>
+        <point x="4.2" y="4.7"/>
+        <point x="4.2" y="4.8"/>
+        <point x="4.2" y="4.75"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5604,7 +5604,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>f1e36a65-10f8-44d8-b3e5-2813bf2b1511</id>
       <name>D17</name>
       <alphaPercent>
         <value>100</value>
@@ -5612,9 +5612,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="7.7" y="2.2"/>
-        <point x="7.7" y="2.3"/>
-        <point x="7.7" y="2.25"/>
+        <point x="5.9" y="4.7"/>
+        <point x="5.9" y="4.8"/>
+        <point x="5.9" y="4.75"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5628,7 +5628,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>d2ae97c9-a96e-4e6f-a683-7609c0e466af</id>
       <name>D18</name>
       <alphaPercent>
         <value>100</value>
@@ -5636,9 +5636,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="6.4" y="2.5"/>
-        <point x="6.4" y="2.6"/>
-        <point x="6.4" y="2.55"/>
+        <point x="4.6" y="5.0"/>
+        <point x="4.6" y="5.1"/>
+        <point x="4.6" y="5.05"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5652,7 +5652,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>19e96459-6dc5-4a75-a976-8b8b75b82473</id>
       <name>D19</name>
       <alphaPercent>
         <value>100</value>
@@ -5660,9 +5660,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="7.3" y="2.5"/>
-        <point x="7.3" y="2.6"/>
-        <point x="7.3" y="2.55"/>
+        <point x="5.5" y="5.0"/>
+        <point x="5.5" y="5.1"/>
+        <point x="5.5" y="5.05"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5676,7 +5676,7 @@
       <value></value>
     </diylc.semiconductors.LED>
     <diylc.semiconductors.LED>
-      <id>cd512517-f354-45c5-b2d0-5e08f28a6a1c</id>
+      <id>e91add8b-11b8-4d9b-a876-0cd26622269d</id>
       <name>D20</name>
       <alphaPercent>
         <value>100</value>
@@ -5684,9 +5684,9 @@
       <length value="5.0" unit="mm"/>
       <width value="5.0" unit="mm"/>
       <points>
-        <point x="6.8" y="2.8"/>
-        <point x="6.9" y="2.8"/>
-        <point x="6.85" y="2.8"/>
+        <point x="5.0" y="5.3"/>
+        <point x="5.1" y="5.3"/>
+        <point x="5.05" y="5.3"/>
       </points>
       <bodyColor hex="ffcc33"/>
       <borderColor hex="41b007"/>
@@ -5707,11 +5707,11 @@
       </alphaPercent>
       <value></value>
       <controlPoints>
-        <point x="5.7" y="7.9"/>
-        <point x="8.0" y="5.7"/>
+        <point x="3.9" y="10.4"/>
+        <point x="6.2" y="8.2"/>
       </controlPoints>
-      <firstPoint x="5.7" y="5.7"/>
-      <secondPoint x="8.0" y="7.9"/>
+      <firstPoint x="3.9" y="8.2"/>
+      <secondPoint x="6.2" y="10.4"/>
       <color hex="666666"/>
       <borderColor hex="000000"/>
       <borderThickness value="0.2" unit="mm"/>
@@ -5729,9 +5729,9 @@
       <length value="0.25" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.6" y="4.6"/>
-        <point x="7.7" y="4.6"/>
-        <point x="7.65" y="4.6"/>
+        <point x="5.8" y="7.1"/>
+        <point x="5.9" y="7.1"/>
+        <point x="5.85" y="7.1"/>
       </points>
       <bodyColor hex="f0e68c"/>
       <borderColor hex="a8a162"/>
@@ -5754,9 +5754,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="8.3" y="5.5"/>
-        <point x="8.0" y="5.5"/>
-        <point x="8.15" y="5.5"/>
+        <point x="6.5" y="8.0"/>
+        <point x="6.2" y="8.0"/>
+        <point x="6.35" y="8.0"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -5780,9 +5780,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.5" y="5.5"/>
-        <point x="7.9" y="5.5"/>
-        <point x="7.7" y="5.5"/>
+        <point x="5.7" y="8.0"/>
+        <point x="6.1" y="8.0"/>
+        <point x="5.9" y="8.0"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -5805,9 +5805,9 @@
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="7.3" y="5.5"/>
-        <point x="7.2" y="5.5"/>
-        <point x="7.25" y="5.5"/>
+        <point x="5.5" y="8.0"/>
+        <point x="5.4" y="8.0"/>
+        <point x="5.45" y="8.0"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -5836,9 +5836,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="5.5" y="4.3"/>
-        <point x="5.5" y="4.0"/>
-        <point x="5.415" y="4.15"/>
+        <point x="3.7" y="6.8"/>
+        <point x="3.7" y="6.5"/>
+        <point x="3.615" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -5860,9 +5860,9 @@
       <length value="0.25" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="6.0" y="4.6"/>
-        <point x="6.1" y="4.6"/>
-        <point x="6.05" y="4.6"/>
+        <point x="4.2" y="7.1"/>
+        <point x="4.3" y="7.1"/>
+        <point x="4.25" y="7.1"/>
       </points>
       <bodyColor hex="f0e68c"/>
       <borderColor hex="a8a162"/>
@@ -5885,9 +5885,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="5.5" y="2.8"/>
-        <point x="5.5" y="2.4"/>
-        <point x="5.5" y="2.6"/>
+        <point x="3.7" y="5.3"/>
+        <point x="3.7" y="4.9"/>
+        <point x="3.7" y="5.1"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -5911,9 +5911,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="5.6" y="3.3"/>
-        <point x="5.6" y="2.9"/>
-        <point x="5.6" y="3.1"/>
+        <point x="3.8" y="5.8"/>
+        <point x="3.8" y="5.4"/>
+        <point x="3.8" y="5.6"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -5929,7 +5929,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>6f875989-b73e-4a9b-9380-76ff2babdba8</id>
       <name>R2</name>
       <alphaPercent>
         <value>100</value>
@@ -5937,9 +5937,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="5.8" y="2.8"/>
-        <point x="5.8" y="2.4"/>
-        <point x="5.8" y="2.6"/>
+        <point x="4.0" y="5.3"/>
+        <point x="4.0" y="4.9"/>
+        <point x="4.0" y="5.1"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -5955,7 +5955,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>255805d6-b89b-4e0c-bc3a-861e34d64e55</id>
       <name>R3</name>
       <alphaPercent>
         <value>100</value>
@@ -5963,9 +5963,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="6.0" y="3.3"/>
-        <point x="6.0" y="2.9"/>
-        <point x="6.0" y="3.1"/>
+        <point x="4.2" y="5.8"/>
+        <point x="4.2" y="5.4"/>
+        <point x="4.2" y="5.6"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -5981,7 +5981,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>aa12f36d-892b-448e-bef5-15b58e2dc1ad</id>
       <name>R4</name>
       <alphaPercent>
         <value>100</value>
@@ -5989,9 +5989,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="6.4" y="3.3"/>
-        <point x="6.4" y="2.9"/>
-        <point x="6.4" y="3.1"/>
+        <point x="4.6" y="5.8"/>
+        <point x="4.6" y="5.4"/>
+        <point x="4.6" y="5.6"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6007,7 +6007,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>8aa43f17-be3f-4898-a2e7-b7b19f207c0c</id>
       <name>R5</name>
       <alphaPercent>
         <value>100</value>
@@ -6015,9 +6015,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.3" y="3.3"/>
-        <point x="7.3" y="2.9"/>
-        <point x="7.3" y="3.1"/>
+        <point x="5.5" y="5.8"/>
+        <point x="5.5" y="5.4"/>
+        <point x="5.5" y="5.6"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6033,7 +6033,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>5cb2da10-cc42-4e49-98cf-a6ec7bd013c6</id>
       <name>R6</name>
       <alphaPercent>
         <value>100</value>
@@ -6041,9 +6041,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.7" y="3.3"/>
-        <point x="7.7" y="2.9"/>
-        <point x="7.7" y="3.1"/>
+        <point x="5.9" y="5.8"/>
+        <point x="5.9" y="5.4"/>
+        <point x="5.9" y="5.6"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6059,7 +6059,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>1eca45de-b340-4100-9052-60596aa33146</id>
       <name>R7</name>
       <alphaPercent>
         <value>100</value>
@@ -6067,9 +6067,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.9" y="2.8"/>
-        <point x="7.9" y="2.4"/>
-        <point x="7.9" y="2.6"/>
+        <point x="6.1" y="5.3"/>
+        <point x="6.1" y="4.9"/>
+        <point x="6.1" y="5.1"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6085,7 +6085,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>38081540-2f1d-457b-86c8-1de008bb5e83</id>
       <name>R8</name>
       <alphaPercent>
         <value>100</value>
@@ -6093,9 +6093,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="8.2" y="2.8"/>
-        <point x="8.2" y="2.4"/>
-        <point x="8.2" y="2.6"/>
+        <point x="6.4" y="5.3"/>
+        <point x="6.4" y="4.9"/>
+        <point x="6.4" y="5.1"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6111,7 +6111,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>6c23f9a1-99df-4f2d-8674-b9975e899e4a</id>
       <name>R9</name>
       <alphaPercent>
         <value>100</value>
@@ -6119,9 +6119,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="8.1" y="3.3"/>
-        <point x="8.1" y="2.9"/>
-        <point x="8.1" y="3.1"/>
+        <point x="6.3" y="5.8"/>
+        <point x="6.3" y="5.4"/>
+        <point x="6.3" y="5.6"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6137,7 +6137,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>74b1bff8-57e0-4ae9-a2c2-8b052ad1d33a</id>
       <name>R10</name>
       <alphaPercent>
         <value>100</value>
@@ -6145,9 +6145,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="6.8" y="3.4"/>
-        <point x="6.8" y="3.0"/>
-        <point x="6.8" y="3.2"/>
+        <point x="5.0" y="5.9"/>
+        <point x="5.0" y="5.5"/>
+        <point x="5.0" y="5.7"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6163,7 +6163,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</id>
+      <id>afd028bd-e709-4835-b591-517d7cde6178</id>
       <name>R11</name>
       <alphaPercent>
         <value>100</value>
@@ -6171,9 +6171,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="6.9" y="3.4"/>
-        <point x="6.9" y="3.0"/>
-        <point x="6.9" y="3.2"/>
+        <point x="5.1" y="5.9"/>
+        <point x="5.1" y="5.5"/>
+        <point x="5.1" y="5.7"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6197,9 +6197,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="6.0" y="1.1"/>
-        <point x="6.0" y="0.7"/>
-        <point x="6.0" y="0.9"/>
+        <point x="4.2" y="3.6"/>
+        <point x="4.2" y="3.2"/>
+        <point x="4.2" y="3.4"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6215,7 +6215,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>fc1f16df-404e-4bc3-91dd-4a1ed98ecbb2</id>
+      <id>9a236bba-d6b4-4e00-9639-ded5fe91b109</id>
       <name>R13</name>
       <alphaPercent>
         <value>100</value>
@@ -6223,9 +6223,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="6.2" y="1.2"/>
-        <point x="6.2" y="0.9"/>
-        <point x="6.2" y="1.05"/>
+        <point x="4.4" y="3.7"/>
+        <point x="4.4" y="3.4"/>
+        <point x="4.4" y="3.55"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6241,7 +6241,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>fc1f16df-404e-4bc3-91dd-4a1ed98ecbb2</id>
+      <id>cc05e459-83cc-4b7f-a36d-c99095b22d78</id>
       <name>R14</name>
       <alphaPercent>
         <value>100</value>
@@ -6249,9 +6249,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="6.5" y="1.8"/>
-        <point x="6.5" y="1.4"/>
-        <point x="6.5" y="1.6"/>
+        <point x="4.7" y="4.3"/>
+        <point x="4.7" y="3.9"/>
+        <point x="4.7" y="4.1"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6267,7 +6267,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>fc1f16df-404e-4bc3-91dd-4a1ed98ecbb2</id>
+      <id>21543088-dff6-4810-b46f-6e7fdf57e62d</id>
       <name>R15</name>
       <alphaPercent>
         <value>100</value>
@@ -6275,9 +6275,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.2" y="1.8"/>
-        <point x="7.2" y="1.4"/>
-        <point x="7.2" y="1.6"/>
+        <point x="5.4" y="4.3"/>
+        <point x="5.4" y="3.9"/>
+        <point x="5.4" y="4.1"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6293,7 +6293,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>fc1f16df-404e-4bc3-91dd-4a1ed98ecbb2</id>
+      <id>8bbf10bc-d025-4d82-87b0-02b29765feb4</id>
       <name>R16</name>
       <alphaPercent>
         <value>100</value>
@@ -6301,9 +6301,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="5.8" y="1.2"/>
-        <point x="5.8" y="0.9"/>
-        <point x="5.8" y="1.05"/>
+        <point x="4.0" y="3.7"/>
+        <point x="4.0" y="3.4"/>
+        <point x="4.0" y="3.55"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6327,9 +6327,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.5" y="1.2"/>
-        <point x="7.5" y="0.8"/>
-        <point x="7.5" y="1.0"/>
+        <point x="5.7" y="3.7"/>
+        <point x="5.7" y="3.3"/>
+        <point x="5.7" y="3.5"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6345,7 +6345,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>24bbd4b5-05ee-44ff-8da2-b109ebcf6f18</id>
+      <id>720c178b-12b3-4ed7-a891-f45486f17cda</id>
       <name>R18</name>
       <alphaPercent>
         <value>100</value>
@@ -6353,9 +6353,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.7" y="1.1"/>
-        <point x="7.7" y="0.7"/>
-        <point x="7.7" y="0.9"/>
+        <point x="5.9" y="3.6"/>
+        <point x="5.9" y="3.2"/>
+        <point x="5.9" y="3.4"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6371,7 +6371,7 @@
       <shape>Standard</shape>
     </diylc.passive.Resistor>
     <diylc.passive.Resistor>
-      <id>24bbd4b5-05ee-44ff-8da2-b109ebcf6f18</id>
+      <id>92ba28ad-9b00-4f35-997d-7155896a8e2c</id>
       <name>R19</name>
       <alphaPercent>
         <value>100</value>
@@ -6379,9 +6379,9 @@
       <length value="0.5" unit="in"/>
       <width value="0.125" unit="in"/>
       <points>
-        <point x="7.9" y="1.2"/>
-        <point x="7.9" y="0.8"/>
-        <point x="7.9" y="1.0"/>
+        <point x="6.1" y="3.7"/>
+        <point x="6.1" y="3.3"/>
+        <point x="6.1" y="3.5"/>
       </points>
       <bodyColor hex="82cffd"/>
       <borderColor hex="5b90b1"/>
@@ -6404,9 +6404,9 @@
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="5.5" y="3.8"/>
-        <point x="5.5" y="3.7"/>
-        <point x="5.5" y="3.75"/>
+        <point x="3.7" y="6.3"/>
+        <point x="3.7" y="6.2"/>
+        <point x="3.7" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6435,9 +6435,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="5.8" y="4.3"/>
-        <point x="5.8" y="4.0"/>
-        <point x="5.715" y="4.15"/>
+        <point x="4.0" y="6.8"/>
+        <point x="4.0" y="6.5"/>
+        <point x="3.915" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6451,7 +6451,7 @@
       <value></value>
     </diylc.semiconductors.DiodeSymbol>
     <diylc.semiconductors.DiodeSymbol>
-      <id>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</id>
+      <id>91131740-9ba1-4af5-9672-fe38cda51bd4</id>
       <name>D22</name>
       <alphaPercent>
         <value>100</value>
@@ -6459,9 +6459,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="6.1" y="4.3"/>
-        <point x="6.1" y="4.0"/>
-        <point x="6.015" y="4.15"/>
+        <point x="4.3" y="6.8"/>
+        <point x="4.3" y="6.5"/>
+        <point x="4.215" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6475,7 +6475,7 @@
       <value></value>
     </diylc.semiconductors.DiodeSymbol>
     <diylc.semiconductors.DiodeSymbol>
-      <id>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</id>
+      <id>50b8d8c5-a521-4283-8818-edff3e60babc</id>
       <name>D23</name>
       <alphaPercent>
         <value>100</value>
@@ -6483,9 +6483,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="6.4" y="4.3"/>
-        <point x="6.4" y="4.0"/>
-        <point x="6.315" y="4.15"/>
+        <point x="4.6" y="6.8"/>
+        <point x="4.6" y="6.5"/>
+        <point x="4.515" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6499,7 +6499,7 @@
       <value></value>
     </diylc.semiconductors.DiodeSymbol>
     <diylc.semiconductors.DiodeSymbol>
-      <id>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</id>
+      <id>74d29170-14cb-4273-a3bd-590d4c946314</id>
       <name>D24</name>
       <alphaPercent>
         <value>100</value>
@@ -6507,9 +6507,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="6.7" y="4.3"/>
-        <point x="6.7" y="4.0"/>
-        <point x="6.615" y="4.15"/>
+        <point x="4.9" y="6.8"/>
+        <point x="4.9" y="6.5"/>
+        <point x="4.815" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6523,7 +6523,7 @@
       <value></value>
     </diylc.semiconductors.DiodeSymbol>
     <diylc.semiconductors.DiodeSymbol>
-      <id>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</id>
+      <id>82066788-b00b-4afd-856d-1591a4f63ff1</id>
       <name>D26</name>
       <alphaPercent>
         <value>100</value>
@@ -6531,9 +6531,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="7.0" y="4.3"/>
-        <point x="7.0" y="4.0"/>
-        <point x="6.915" y="4.15"/>
+        <point x="5.2" y="6.8"/>
+        <point x="5.2" y="6.5"/>
+        <point x="5.115" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6547,7 +6547,7 @@
       <value></value>
     </diylc.semiconductors.DiodeSymbol>
     <diylc.semiconductors.DiodeSymbol>
-      <id>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</id>
+      <id>ff2e8f74-60ab-44ae-a874-ccb2257f8695</id>
       <name>D27</name>
       <alphaPercent>
         <value>100</value>
@@ -6555,9 +6555,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="7.3" y="4.3"/>
-        <point x="7.3" y="4.0"/>
-        <point x="7.215" y="4.15"/>
+        <point x="5.5" y="6.8"/>
+        <point x="5.5" y="6.5"/>
+        <point x="5.415" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6571,7 +6571,7 @@
       <value></value>
     </diylc.semiconductors.DiodeSymbol>
     <diylc.semiconductors.DiodeSymbol>
-      <id>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</id>
+      <id>6552ddef-629b-4f92-a133-885f378142ce</id>
       <name>D28</name>
       <alphaPercent>
         <value>100</value>
@@ -6579,9 +6579,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="7.6" y="4.3"/>
-        <point x="7.6" y="4.0"/>
-        <point x="7.515" y="4.15"/>
+        <point x="5.8" y="6.8"/>
+        <point x="5.8" y="6.5"/>
+        <point x="5.715" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6595,7 +6595,7 @@
       <value></value>
     </diylc.semiconductors.DiodeSymbol>
     <diylc.semiconductors.DiodeSymbol>
-      <id>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</id>
+      <id>1b204b1c-2371-4399-9a63-a5a7f10bd186</id>
       <name>D29</name>
       <alphaPercent>
         <value>100</value>
@@ -6603,9 +6603,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="7.9" y="4.3"/>
-        <point x="7.9" y="4.0"/>
-        <point x="7.815" y="4.15"/>
+        <point x="6.1" y="6.8"/>
+        <point x="6.1" y="6.5"/>
+        <point x="6.015" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6619,7 +6619,7 @@
       <value></value>
     </diylc.semiconductors.DiodeSymbol>
     <diylc.semiconductors.DiodeSymbol>
-      <id>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</id>
+      <id>561f21b7-f481-41b2-9ffa-f2d9fe7f857d</id>
       <name>D30</name>
       <alphaPercent>
         <value>100</value>
@@ -6627,9 +6627,9 @@
       <length value="0.1" unit="in"/>
       <width value="0.1" unit="in"/>
       <points>
-        <point x="8.2" y="4.3"/>
-        <point x="8.2" y="4.0"/>
-        <point x="8.115" y="4.15"/>
+        <point x="6.4" y="6.8"/>
+        <point x="6.4" y="6.5"/>
+        <point x="6.315" y="6.65"/>
       </points>
       <bodyColor hex="0000ff"/>
       <labelColor hex="000000"/>
@@ -6650,9 +6650,9 @@
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="5.8" y="3.8"/>
-        <point x="5.8" y="3.7"/>
-        <point x="5.8" y="3.75"/>
+        <point x="4.0" y="6.3"/>
+        <point x="4.0" y="6.2"/>
+        <point x="4.0" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6673,16 +6673,16 @@
       <invert>false</invert>
     </diylc.passive.RadialElectrolytic>
     <diylc.passive.RadialElectrolytic>
-      <id>e2bc02bf-5e96-4967-9c22-599fe2e1638f</id>
+      <id>32e0884d-1df0-4bbd-ac7b-c0ae828fc2bf</id>
       <name>C3</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="6.1" y="3.8"/>
-        <point x="6.1" y="3.7"/>
-        <point x="6.1" y="3.75"/>
+        <point x="4.3" y="6.3"/>
+        <point x="4.3" y="6.2"/>
+        <point x="4.3" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6703,16 +6703,16 @@
       <invert>false</invert>
     </diylc.passive.RadialElectrolytic>
     <diylc.passive.RadialElectrolytic>
-      <id>e2bc02bf-5e96-4967-9c22-599fe2e1638f</id>
+      <id>61c6b577-acec-4263-9b43-ffddf377e34e</id>
       <name>C4</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="6.4" y="3.8"/>
-        <point x="6.4" y="3.7"/>
-        <point x="6.4" y="3.75"/>
+        <point x="4.6" y="6.3"/>
+        <point x="4.6" y="6.2"/>
+        <point x="4.6" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6733,16 +6733,16 @@
       <invert>false</invert>
     </diylc.passive.RadialElectrolytic>
     <diylc.passive.RadialElectrolytic>
-      <id>e2bc02bf-5e96-4967-9c22-599fe2e1638f</id>
+      <id>b39bda30-158f-4ec8-ba98-059abecc075c</id>
       <name>C5</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="6.7" y="3.8"/>
-        <point x="6.7" y="3.7"/>
-        <point x="6.7" y="3.75"/>
+        <point x="4.9" y="6.3"/>
+        <point x="4.9" y="6.2"/>
+        <point x="4.9" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6763,16 +6763,16 @@
       <invert>false</invert>
     </diylc.passive.RadialElectrolytic>
     <diylc.passive.RadialElectrolytic>
-      <id>e2bc02bf-5e96-4967-9c22-599fe2e1638f</id>
+      <id>dd94e9ff-1012-40c6-967d-802b8ce078cc</id>
       <name>C6</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="7.0" y="3.8"/>
-        <point x="7.0" y="3.7"/>
-        <point x="7.0" y="3.75"/>
+        <point x="5.2" y="6.3"/>
+        <point x="5.2" y="6.2"/>
+        <point x="5.2" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6793,16 +6793,16 @@
       <invert>false</invert>
     </diylc.passive.RadialElectrolytic>
     <diylc.passive.RadialElectrolytic>
-      <id>e2bc02bf-5e96-4967-9c22-599fe2e1638f</id>
+      <id>83e145a8-14d4-46ec-8f38-8d3c8b7022fe</id>
       <name>C7</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="7.3" y="3.8"/>
-        <point x="7.3" y="3.7"/>
-        <point x="7.3" y="3.75"/>
+        <point x="5.5" y="6.3"/>
+        <point x="5.5" y="6.2"/>
+        <point x="5.5" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6823,16 +6823,16 @@
       <invert>false</invert>
     </diylc.passive.RadialElectrolytic>
     <diylc.passive.RadialElectrolytic>
-      <id>e2bc02bf-5e96-4967-9c22-599fe2e1638f</id>
+      <id>68294c30-a789-48c2-ae2b-026261580bd5</id>
       <name>C8</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="7.6" y="3.8"/>
-        <point x="7.6" y="3.7"/>
-        <point x="7.6" y="3.75"/>
+        <point x="5.8" y="6.3"/>
+        <point x="5.8" y="6.2"/>
+        <point x="5.8" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6853,16 +6853,16 @@
       <invert>false</invert>
     </diylc.passive.RadialElectrolytic>
     <diylc.passive.RadialElectrolytic>
-      <id>e2bc02bf-5e96-4967-9c22-599fe2e1638f</id>
+      <id>e9acd8d7-f5b5-46d2-a834-fa60abebe412</id>
       <name>C9</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="7.9" y="3.8"/>
-        <point x="7.9" y="3.7"/>
-        <point x="7.9" y="3.75"/>
+        <point x="6.1" y="6.3"/>
+        <point x="6.1" y="6.2"/>
+        <point x="6.1" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6883,16 +6883,16 @@
       <invert>false</invert>
     </diylc.passive.RadialElectrolytic>
     <diylc.passive.RadialElectrolytic>
-      <id>e2bc02bf-5e96-4967-9c22-599fe2e1638f</id>
+      <id>bc6cd532-fa0f-49d5-83dd-fe14acd3fc56</id>
       <name>C10</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
       <length value="0.25" unit="in"/>
       <points>
-        <point x="8.2" y="3.8"/>
-        <point x="8.2" y="3.7"/>
-        <point x="8.2" y="3.75"/>
+        <point x="6.4" y="6.3"/>
+        <point x="6.4" y="6.2"/>
+        <point x="6.4" y="6.25"/>
       </points>
       <bodyColor hex="6b6dce"/>
       <borderColor hex="4a4c90"/>
@@ -6919,16 +6919,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.1" y="5.5"/>
-        <point x="6.9" y="6.4"/>
-        <point x="5.9" y="7.4"/>
-        <point x="5.4" y="7.4"/>
+        <point x="5.3" y="8.0"/>
+        <point x="5.1" y="8.9"/>
+        <point x="4.1" y="9.9"/>
+        <point x="3.6" y="9.9"/>
       </controlPoints2>
       <color hex="ffffff"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -6940,16 +6940,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.3" y="5.1"/>
-        <point x="7.5" y="5.4"/>
-        <point x="8.1" y="5.5"/>
-        <point x="8.3" y="5.1"/>
+        <point x="5.5" y="7.6"/>
+        <point x="5.7" y="7.9"/>
+        <point x="6.3" y="8.0"/>
+        <point x="6.5" y="7.6"/>
       </controlPoints2>
       <color hex="ff3333"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -6961,16 +6961,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.6" y="4.8"/>
-        <point x="7.0" y="4.8"/>
-        <point x="8.0" y="4.7"/>
-        <point x="8.3" y="4.6"/>
+        <point x="4.8" y="7.3"/>
+        <point x="5.2" y="7.3"/>
+        <point x="6.2" y="7.2"/>
+        <point x="6.5" y="7.1"/>
       </controlPoints2>
       <color hex="ff0033"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -6982,16 +6982,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.3" y="5.1"/>
-        <point x="7.3" y="5.9"/>
-        <point x="6.0" y="6.5"/>
-        <point x="5.4" y="6.9"/>
+        <point x="4.5" y="7.6"/>
+        <point x="5.5" y="8.4"/>
+        <point x="4.2" y="9.0"/>
+        <point x="3.6" y="9.4"/>
       </controlPoints2>
       <color hex="ffffff"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7003,16 +7003,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="5.4" y="3.9"/>
-        <point x="5.7" y="3.4"/>
-        <point x="6.6" y="3.5"/>
-        <point x="6.8" y="3.5"/>
+        <point x="3.6" y="6.4"/>
+        <point x="3.9" y="5.9"/>
+        <point x="4.8" y="6.0"/>
+        <point x="5.0" y="6.0"/>
       </controlPoints2>
       <color hex="ccffcc"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7024,16 +7024,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="5.6" y="3.9"/>
-        <point x="5.7" y="3.7"/>
-        <point x="5.9" y="3.6"/>
-        <point x="6.9" y="3.5"/>
+        <point x="3.8" y="6.4"/>
+        <point x="3.9" y="6.2"/>
+        <point x="4.1" y="6.1"/>
+        <point x="5.1" y="6.0"/>
       </controlPoints2>
       <color hex="ccffcc"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7045,16 +7045,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="5.7" y="3.9"/>
-        <point x="6.2" y="3.3"/>
-        <point x="6.3" y="2.9"/>
-        <point x="6.5" y="1.9"/>
+        <point x="3.9" y="6.4"/>
+        <point x="4.4" y="5.8"/>
+        <point x="4.5" y="5.4"/>
+        <point x="4.7" y="4.4"/>
       </controlPoints2>
       <color hex="66ff66"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7066,16 +7066,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="5.9" y="3.9"/>
-        <point x="6.6" y="2.7"/>
-        <point x="6.7" y="2.3"/>
-        <point x="7.2" y="1.8"/>
+        <point x="4.1" y="6.4"/>
+        <point x="4.8" y="5.2"/>
+        <point x="4.9" y="4.8"/>
+        <point x="5.4" y="4.3"/>
       </controlPoints2>
       <color hex="66ff66"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7087,16 +7087,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.0" y="3.9"/>
-        <point x="5.6" y="3.1"/>
-        <point x="5.6" y="2.4"/>
-        <point x="6.2" y="1.3"/>
+        <point x="4.2" y="6.4"/>
+        <point x="3.8" y="5.6"/>
+        <point x="3.8" y="4.9"/>
+        <point x="4.4" y="3.8"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7108,16 +7108,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.2" y="3.9"/>
-        <point x="5.2" y="1.8"/>
-        <point x="6.6" y="1.6"/>
-        <point x="7.5" y="1.3"/>
+        <point x="4.4" y="6.4"/>
+        <point x="3.4" y="4.3"/>
+        <point x="4.8" y="4.1"/>
+        <point x="5.7" y="3.8"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7129,16 +7129,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.3" y="3.9"/>
-        <point x="5.7" y="2.1"/>
-        <point x="6.5" y="2.4"/>
-        <point x="6.0" y="1.2"/>
+        <point x="4.5" y="6.4"/>
+        <point x="3.9" y="4.6"/>
+        <point x="4.7" y="4.9"/>
+        <point x="4.2" y="3.7"/>
       </controlPoints2>
       <color hex="669900"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7150,16 +7150,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.7" y="1.2"/>
-        <point x="5.8" y="1.5"/>
-        <point x="6.2" y="3.8"/>
-        <point x="6.5" y="3.9"/>
+        <point x="5.9" y="3.7"/>
+        <point x="4.0" y="4.0"/>
+        <point x="4.4" y="6.3"/>
+        <point x="4.7" y="6.4"/>
       </controlPoints2>
       <color hex="669900"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7171,16 +7171,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.6" y="3.9"/>
-        <point x="6.0" y="2.3"/>
-        <point x="7.4" y="2.1"/>
-        <point x="5.8" y="1.3"/>
+        <point x="4.8" y="6.4"/>
+        <point x="4.2" y="4.8"/>
+        <point x="5.6" y="4.6"/>
+        <point x="4.0" y="3.8"/>
       </controlPoints2>
       <color hex="009966"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7192,16 +7192,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.9" y="1.3"/>
-        <point x="6.9" y="1.9"/>
-        <point x="6.4" y="3.0"/>
-        <point x="6.8" y="3.9"/>
+        <point x="6.1" y="3.8"/>
+        <point x="5.1" y="4.4"/>
+        <point x="4.6" y="5.5"/>
+        <point x="5.0" y="6.4"/>
       </controlPoints2>
       <color hex="009966"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ff9900"/>
@@ -7213,16 +7213,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.9" y="3.9"/>
-        <point x="6.1" y="4.2"/>
-        <point x="5.5" y="4.2"/>
-        <point x="5.5" y="2.9"/>
+        <point x="5.1" y="6.4"/>
+        <point x="4.3" y="6.7"/>
+        <point x="3.7" y="6.7"/>
+        <point x="3.7" y="5.4"/>
       </controlPoints2>
       <color hex="009999"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7234,16 +7234,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.1" y="3.9"/>
-        <point x="7.6" y="4.1"/>
-        <point x="8.4" y="4.3"/>
-        <point x="8.2" y="2.9"/>
+        <point x="5.3" y="6.4"/>
+        <point x="5.8" y="6.6"/>
+        <point x="6.6" y="6.8"/>
+        <point x="6.4" y="5.4"/>
       </controlPoints2>
       <color hex="009999"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7255,16 +7255,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.2" y="3.9"/>
-        <point x="7.4" y="4.2"/>
-        <point x="5.0" y="4.7"/>
-        <point x="5.6" y="3.4"/>
+        <point x="5.4" y="6.4"/>
+        <point x="5.6" y="6.7"/>
+        <point x="3.2" y="7.2"/>
+        <point x="3.8" y="5.9"/>
       </controlPoints2>
       <color hex="00ffcc"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7276,16 +7276,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.4" y="3.9"/>
-        <point x="7.2" y="3.8"/>
-        <point x="7.9" y="3.3"/>
-        <point x="8.1" y="3.4"/>
+        <point x="5.6" y="6.4"/>
+        <point x="5.4" y="6.3"/>
+        <point x="6.1" y="5.8"/>
+        <point x="6.3" y="5.9"/>
       </controlPoints2>
       <color hex="00ffcc"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7297,16 +7297,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.5" y="3.9"/>
-        <point x="6.4" y="3.6"/>
-        <point x="6.0" y="3.9"/>
-        <point x="5.8" y="2.9"/>
+        <point x="5.7" y="6.4"/>
+        <point x="4.6" y="6.1"/>
+        <point x="4.2" y="6.4"/>
+        <point x="4.0" y="5.4"/>
       </controlPoints2>
       <color hex="ffff00"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7318,16 +7318,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.7" y="3.9"/>
-        <point x="8.0" y="3.6"/>
-        <point x="7.7" y="3.1"/>
-        <point x="7.9" y="2.9"/>
+        <point x="5.9" y="6.4"/>
+        <point x="6.2" y="6.1"/>
+        <point x="5.9" y="5.6"/>
+        <point x="6.1" y="5.4"/>
       </controlPoints2>
       <color hex="ffff00"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>false</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7339,16 +7339,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.8" y="3.9"/>
-        <point x="7.1" y="3.0"/>
-        <point x="6.8" y="3.7"/>
-        <point x="6.0" y="3.4"/>
+        <point x="6.0" y="6.4"/>
+        <point x="5.3" y="5.5"/>
+        <point x="5.0" y="6.2"/>
+        <point x="4.2" y="5.9"/>
       </controlPoints2>
       <color hex="ff9900"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7360,16 +7360,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="8.0" y="3.9"/>
-        <point x="7.8" y="3.5"/>
-        <point x="7.9" y="3.7"/>
-        <point x="7.7" y="3.4"/>
+        <point x="6.2" y="6.4"/>
+        <point x="6.0" y="6.0"/>
+        <point x="6.1" y="6.2"/>
+        <point x="5.9" y="5.9"/>
       </controlPoints2>
       <color hex="ff9900"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7381,16 +7381,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="8.1" y="3.9"/>
-        <point x="8.0" y="4.2"/>
-        <point x="6.8" y="4.7"/>
-        <point x="6.4" y="3.4"/>
+        <point x="6.3" y="6.4"/>
+        <point x="6.2" y="6.7"/>
+        <point x="5.0" y="7.2"/>
+        <point x="4.6" y="5.9"/>
       </controlPoints2>
       <color hex="ff66ff"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7402,16 +7402,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="8.3" y="3.9"/>
-        <point x="8.1" y="4.0"/>
-        <point x="7.4" y="4.9"/>
-        <point x="7.3" y="3.4"/>
+        <point x="6.5" y="6.4"/>
+        <point x="6.3" y="6.5"/>
+        <point x="5.6" y="7.4"/>
+        <point x="5.5" y="5.9"/>
       </controlPoints2>
       <color hex="ff66ff"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7423,16 +7423,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="5.8" y="5.0"/>
-        <point x="5.5" y="4.9"/>
-        <point x="5.2" y="4.7"/>
-        <point x="5.5" y="4.4"/>
+        <point x="4.0" y="7.5"/>
+        <point x="3.7" y="7.4"/>
+        <point x="3.4" y="7.2"/>
+        <point x="3.7" y="6.9"/>
       </controlPoints2>
       <color hex="ccffcc"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7444,16 +7444,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="5.8" y="4.4"/>
-        <point x="5.1" y="4.5"/>
-        <point x="5.7" y="4.9"/>
-        <point x="5.8" y="4.9"/>
+        <point x="4.0" y="6.9"/>
+        <point x="3.3" y="7.0"/>
+        <point x="3.9" y="7.4"/>
+        <point x="4.0" y="7.4"/>
       </controlPoints2>
       <color hex="66ff66"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7465,16 +7465,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.1" y="4.4"/>
-        <point x="5.2" y="4.6"/>
-        <point x="5.4" y="5.2"/>
-        <point x="5.8" y="5.1"/>
+        <point x="4.3" y="6.9"/>
+        <point x="3.4" y="7.1"/>
+        <point x="3.6" y="7.7"/>
+        <point x="4.0" y="7.6"/>
       </controlPoints2>
       <color hex="00ff00"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7486,16 +7486,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.4" y="4.4"/>
-        <point x="6.2" y="4.6"/>
-        <point x="6.1" y="5.1"/>
-        <point x="5.8" y="5.4"/>
+        <point x="4.6" y="6.9"/>
+        <point x="4.4" y="7.1"/>
+        <point x="4.3" y="7.6"/>
+        <point x="4.0" y="7.9"/>
       </controlPoints2>
       <color hex="669900"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7507,16 +7507,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.7" y="4.4"/>
-        <point x="6.8" y="5.3"/>
-        <point x="6.6" y="5.5"/>
-        <point x="6.3" y="5.4"/>
+        <point x="4.9" y="6.9"/>
+        <point x="5.0" y="7.8"/>
+        <point x="4.8" y="8.0"/>
+        <point x="4.5" y="7.9"/>
       </controlPoints2>
       <color hex="009966"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ff9900"/>
@@ -7528,16 +7528,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.0" y="4.4"/>
-        <point x="6.6" y="4.8"/>
-        <point x="6.2" y="4.7"/>
-        <point x="5.8" y="4.8"/>
+        <point x="5.2" y="6.9"/>
+        <point x="4.8" y="7.3"/>
+        <point x="4.4" y="7.2"/>
+        <point x="4.0" y="7.3"/>
       </controlPoints2>
       <color hex="009999"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7549,16 +7549,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.3" y="4.4"/>
-        <point x="7.3" y="5.6"/>
-        <point x="5.1" y="6.2"/>
-        <point x="5.8" y="5.2"/>
+        <point x="5.5" y="6.9"/>
+        <point x="5.5" y="8.1"/>
+        <point x="3.3" y="8.7"/>
+        <point x="4.0" y="7.7"/>
       </controlPoints2>
       <color hex="00ffcc"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7570,16 +7570,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="7.6" y="4.4"/>
-        <point x="6.1" y="6.6"/>
-        <point x="5.6" y="5.5"/>
-        <point x="5.8" y="5.3"/>
+        <point x="5.8" y="6.9"/>
+        <point x="4.3" y="9.1"/>
+        <point x="3.8" y="8.0"/>
+        <point x="4.0" y="7.8"/>
       </controlPoints2>
       <color hex="ffff00"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>false</smooth>
-      <lastUpdatePointIndex>1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7591,16 +7591,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.3" y="5.5"/>
-        <point x="7.4" y="6.1"/>
-        <point x="7.7" y="6.1"/>
-        <point x="7.9" y="4.4"/>
+        <point x="4.5" y="8.0"/>
+        <point x="5.6" y="8.6"/>
+        <point x="5.9" y="8.6"/>
+        <point x="6.1" y="6.9"/>
       </controlPoints2>
       <color hex="ff9900"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7612,16 +7612,16 @@
         <value>100</value>
       </alphaPercent>
       <controlPoints2>
-        <point x="6.3" y="5.3"/>
-        <point x="7.9" y="6.1"/>
-        <point x="8.3" y="6.0"/>
-        <point x="8.2" y="4.4"/>
+        <point x="4.5" y="7.8"/>
+        <point x="6.1" y="8.6"/>
+        <point x="6.5" y="8.5"/>
+        <point x="6.4" y="6.9"/>
       </controlPoints2>
       <color hex="ff66ff"/>
       <pointCount>FOUR</pointCount>
       <style>SOLID</style>
       <smooth>true</smooth>
-      <lastUpdatePointIndex>-1</lastUpdatePointIndex>
+      <lastUpdatePointIndex>3</lastUpdatePointIndex>
       <gauge>_22</gauge>
       <striped>false</striped>
       <stripeColor hex="ffff00"/>
@@ -7629,7 +7629,7 @@
     <diylc.misc.Label>
       <id>f26913b9-f261-4c8b-8f6e-4c02dfedb7b7</id>
       <name>LAB1</name>
-      <point x="7.6" y="5.0"/>
+      <point x="5.8" y="7.5"/>
       <text>     NE555&lt;br&gt;</text>
       <font name="Dialog.plain" size="14" style="0"/>
       <color hex="000000"/>
@@ -7640,7 +7640,7 @@
     <diylc.misc.Label>
       <id>2ecbfb14-a669-4d3b-8d50-b84cab721087</id>
       <name>LAB2</name>
-      <point x="6.0" y="5.2"/>
+      <point x="4.2" y="7.7"/>
       <text>     CD4017&lt;br&gt;</text>
       <font reference="../../diylc.misc.Label/font"/>
       <color hex="000000"/>
@@ -7651,7 +7651,7 @@
     <diylc.misc.Label>
       <id>9dc1e779-81e0-461e-9e2f-67feff6bd9f8</id>
       <name>LAB3</name>
-      <point x="6.7" y="6.7"/>
+      <point x="4.9" y="9.2"/>
       <text>  Battery</text>
       <font name="Dialog.plain" size="70" style="0"/>
       <color hex="000000"/>
@@ -7662,7 +7662,7 @@
     <diylc.misc.Label>
       <id>26890376-66fb-47f3-a4f5-8a9c576874c8</id>
       <name>LAB4</name>
-      <point x="8.4" y="8.2"/>
+      <point x="6.6" y="10.7"/>
       <text>VCC</text>
       <font name="Dialog.plain" size="40" style="0"/>
       <color hex="000000"/>
@@ -7673,7 +7673,7 @@
     <diylc.misc.Label>
       <id>2e9969f7-d775-4b57-bd79-35704eefdd22</id>
       <name>LAB5</name>
-      <point x="5.3" y="8.2"/>
+      <point x="3.5" y="10.7"/>
       <text>GND&lt;br&gt;&lt;br&gt;</text>
       <font name="Dialog.plain" size="40" style="0"/>
       <color hex="000000"/>
@@ -7686,50 +7686,73 @@
   <groupsEx>
     <group>
       <componentIds>
+        <uuid>3473abad-b649-4ebe-a227-7054866a5b31</uuid>
         <uuid>1f6091d6-3ea9-4cad-8983-75e55ef70e21</uuid>
+        <uuid>13a51288-ed8c-4000-9c05-8f8ebd8f8ca7</uuid>
         <uuid>9dc1e779-81e0-461e-9e2f-67feff6bd9f8</uuid>
+        <uuid>32e0884d-1df0-4bbd-ac7b-c0ae828fc2bf</uuid>
         <uuid>628d58f6-833b-41a5-8944-0318361f06a1</uuid>
         <uuid>e253fec2-64eb-4f2b-8ce5-377f0218c2d8</uuid>
         <uuid>f26913b9-f261-4c8b-8f6e-4c02dfedb7b7</uuid>
         <uuid>634e1b35-ae06-431a-b30d-e8e1c9d7f94d</uuid>
+        <uuid>e10ef84c-ba3d-47da-9a06-744f4f3299cc</uuid>
         <uuid>af70018d-5726-4d2a-8658-8c956d69eb46</uuid>
+        <uuid>424bccd6-4ac0-4a56-8776-dc0d9436335f</uuid>
+        <uuid>aa12f36d-892b-448e-bef5-15b58e2dc1ad</uuid>
         <uuid>e76066ef-3635-4fae-b129-7014949a03a9</uuid>
         <uuid>4982c069-b761-42bf-8f47-12df3f2f0a9c</uuid>
+        <uuid>668914e2-d381-4c8f-a2a8-83728b56b7f6</uuid>
         <uuid>37266107-5017-4f15-b740-039c2e1c4bc3</uuid>
         <uuid>dbe5cfdd-89bd-4d26-8974-89b61ee20ea9</uuid>
         <uuid>8a511d8f-7a4f-47cd-997e-9bfdbfa9975c</uuid>
+        <uuid>74d29170-14cb-4273-a3bd-590d4c946314</uuid>
         <uuid>739d5a05-4cbf-4bab-ba63-e16ac16812c1</uuid>
+        <uuid>29330658-de67-4dff-a64e-751c9fc5024b</uuid>
         <uuid>b6fcc304-9808-4ad4-b467-ba141560e807</uuid>
         <uuid>17d17ea3-7479-4690-8389-b3486107ba6c</uuid>
         <uuid>2c2fb93c-0200-4261-98f9-6249b55a02ab</uuid>
         <uuid>a437310f-a00a-4347-a3d2-3b7b2da6034f</uuid>
-        <uuid>97bd1462-9fa4-4553-b323-bb3bb5dda2da</uuid>
         <uuid>2ae0deb9-d896-4259-90f3-7b9f1265c3a8</uuid>
+        <uuid>97bd1462-9fa4-4553-b323-bb3bb5dda2da</uuid>
         <uuid>393c1bf7-5980-4adb-895c-a4f999a155ac</uuid>
+        <uuid>cfe1f485-4bc9-4fae-afbc-f84ea3a18968</uuid>
         <uuid>935c4b4c-01a6-4d3c-ae56-424de53b7b90</uuid>
         <uuid>8fc2ffc0-ed27-4b30-82ec-62fe381bc427</uuid>
+        <uuid>3bfac81d-f397-4af6-817b-2455f9dffe4a</uuid>
+        <uuid>38081540-2f1d-457b-86c8-1de008bb5e83</uuid>
         <uuid>e426455e-ffce-42aa-a5bf-beae6f30e87c</uuid>
         <uuid>92980700-f969-4cde-989f-26593dc8b962</uuid>
         <uuid>3598baa4-af39-40bb-9a5a-2e79de130ec8</uuid>
         <uuid>f9445549-c3c3-498c-bc65-4b1c3d3eda42</uuid>
-        <uuid>ea58ad6b-6116-4da1-9285-1a396ca58bd7</uuid>
+        <uuid>56ea3a8d-4e0b-4fa3-baa1-a6e5202befe9</uuid>
+        <uuid>55fe129a-674f-4e25-ba44-d1499705544c</uuid>
         <uuid>5dccac51-b064-4299-a6cb-1913ce1940eb</uuid>
+        <uuid>ea58ad6b-6116-4da1-9285-1a396ca58bd7</uuid>
+        <uuid>f52147b1-323f-4122-94b3-675be518c736</uuid>
+        <uuid>6c8fa29d-b083-47c2-a34e-867c22753e44</uuid>
+        <uuid>6c23f9a1-99df-4f2d-8674-b9975e899e4a</uuid>
         <uuid>c2bc0bd5-67d8-4689-b0db-898b49a2d29b</uuid>
-        <uuid>aa7b07f9-f5ae-4d41-9d06-411d819b8abc</uuid>
         <uuid>63ee00f1-6670-472b-9f23-d1b264953011</uuid>
+        <uuid>aa7b07f9-f5ae-4d41-9d06-411d819b8abc</uuid>
         <uuid>dffb20cf-407a-4f58-b688-2b81f38eecc4</uuid>
         <uuid>072ec920-1f91-4026-8f45-b902f373d8db</uuid>
         <uuid>369cd10e-af92-4e43-87bd-537bfc27daf5</uuid>
         <uuid>d8f50234-924d-48b1-90d9-26b8f84cca47</uuid>
+        <uuid>9a236bba-d6b4-4e00-9639-ded5fe91b109</uuid>
         <uuid>4135f759-cef2-4ae2-80fa-cbb8f6d68fb2</uuid>
         <uuid>03140a63-19a3-4a49-ba64-a890030e653c</uuid>
+        <uuid>0b2c0ac4-f773-4028-be23-d3c4a03c3535</uuid>
         <uuid>252b7459-93bf-4c2a-832d-aff29216ec73</uuid>
         <uuid>d5aabc7d-082d-4ebb-a77b-4e8c956f59b8</uuid>
         <uuid>ebbb157d-664f-4b9f-b3dd-7c870da5198b</uuid>
-        <uuid>2ecbfb14-a669-4d3b-8d50-b84cab721087</uuid>
+        <uuid>76070c04-569e-49ae-bc6d-4de015b0d96a</uuid>
         <uuid>707e4869-7760-4e31-9b50-0e1e1f02a76e</uuid>
+        <uuid>2ecbfb14-a669-4d3b-8d50-b84cab721087</uuid>
+        <uuid>330dc3a9-3e5c-430e-beb1-a0ed750760c9</uuid>
         <uuid>37ed029f-7db3-4c1a-960e-51085ef4b94c</uuid>
         <uuid>2c3a753d-3fbb-4203-aab4-63c3aea6f50b</uuid>
+        <uuid>f1e36a65-10f8-44d8-b3e5-2813bf2b1511</uuid>
+        <uuid>74b1bff8-57e0-4ae9-a2c2-8b052ad1d33a</uuid>
         <uuid>5588368a-25b7-429f-ae5d-49272eb46f89</uuid>
         <uuid>efb86d5d-2e0a-4afa-85c7-def5e002754b</uuid>
         <uuid>618d3065-3863-4203-9527-c8c8bfde21d6</uuid>
@@ -7739,121 +7762,186 @@
         <uuid>64377085-2a51-4957-9b28-23e802565f56</uuid>
         <uuid>155de52e-8bf6-4410-bab0-1b4337bc9baf</uuid>
         <uuid>660fb466-e5a0-4fa9-a9a5-9f255dd27744</uuid>
+        <uuid>8bbf10bc-d025-4d82-87b0-02b29765feb4</uuid>
         <uuid>53cf40ea-1f1c-40c3-9acd-37fe362b0f9a</uuid>
-        <uuid>efae57eb-4247-46d5-a97f-2d4dc977d9eb</uuid>
         <uuid>d4152ed8-548f-42f4-bd0c-8f0385725db2</uuid>
+        <uuid>efae57eb-4247-46d5-a97f-2d4dc977d9eb</uuid>
+        <uuid>b39bda30-158f-4ec8-ba98-059abecc075c</uuid>
+        <uuid>feb2e6f1-aaa0-4e79-808b-6d6575d996d2</uuid>
         <uuid>baa83ba7-1ead-4b9f-9cf2-796462dc59f7</uuid>
         <uuid>617fe5ae-da04-4f33-b4f0-3cd7cd3e4e7e</uuid>
         <uuid>5d25cfd2-9702-4b94-837c-70244e228398</uuid>
+        <uuid>82066788-b00b-4afd-856d-1591a4f63ff1</uuid>
         <uuid>2e9969f7-d775-4b57-bd79-35704eefdd22</uuid>
         <uuid>cb503d9a-9574-4c8f-ae9c-eab1a5be7c28</uuid>
-        <uuid>305257e1-b56c-46f7-836d-baf7cce1d1df</uuid>
         <uuid>8686b690-fc8d-4ea9-af54-3f954b64c51b</uuid>
+        <uuid>305257e1-b56c-46f7-836d-baf7cce1d1df</uuid>
         <uuid>d71e6a74-e79c-41ad-a042-f4b347b6f891</uuid>
         <uuid>dc570efe-4ead-40a3-93a9-d4a79c0f192b</uuid>
+        <uuid>4d5b12df-af9b-4ac4-8eb1-971d4b858c7d</uuid>
         <uuid>3130e69c-37d2-4aa4-8f2c-6ac95822ab8d</uuid>
         <uuid>6637154e-777c-420c-bf37-6c5d88af575e</uuid>
         <uuid>33cbaba0-27da-4639-bd45-8f45fda36cb8</uuid>
+        <uuid>0b3dd3a1-d214-4901-af1a-67d46a9c094d</uuid>
         <uuid>5211025f-3ed8-4db7-9ce1-4152368a768e</uuid>
         <uuid>5f1d30d1-46cf-429c-9e3d-483d3f34d433</uuid>
-        <uuid>cd512517-f354-45c5-b2d0-5e08f28a6a1c</uuid>
         <uuid>6f7a5877-f0da-43b2-9af1-5ef9d9af1f5b</uuid>
+        <uuid>30e8c008-e440-4177-b3e5-9c492b1565f7</uuid>
+        <uuid>61c6b577-acec-4263-9b43-ffddf377e34e</uuid>
+        <uuid>cd512517-f354-45c5-b2d0-5e08f28a6a1c</uuid>
+        <uuid>668c3ed3-2dea-41ef-96f6-5ae81a4bd895</uuid>
         <uuid>58a26494-760e-4841-84ca-2151a2a977d0</uuid>
+        <uuid>5cb2da10-cc42-4e49-98cf-a6ec7bd013c6</uuid>
+        <uuid>5c5094fb-b661-4d68-bb28-cf8f901b0d83</uuid>
         <uuid>a72a19d9-aec6-4771-8f6e-7e20758a4d1d</uuid>
         <uuid>6e003aa2-2f6e-4fac-8fe7-b36954b890c8</uuid>
+        <uuid>1fc01c2e-b201-41fc-8deb-cbee3e1144a7</uuid>
+        <uuid>73863db8-b444-41c8-9aa8-0c2f008c571b</uuid>
+        <uuid>fa7019bb-03c3-4fa5-b678-ae1e52ebf783</uuid>
+        <uuid>d2ae97c9-a96e-4e6f-a683-7609c0e466af</uuid>
         <uuid>8e99b40f-4bc8-4df3-af9b-7a813981009e</uuid>
+        <uuid>22a8ec94-c8cf-4d02-85ee-37246a71e7e2</uuid>
+        <uuid>e91add8b-11b8-4d9b-a876-0cd26622269d</uuid>
         <uuid>47d62c4d-ace3-40d2-b5f0-ebf7123f4b22</uuid>
+        <uuid>b1dd99cd-15eb-4570-bae0-31d2a6eba9e2</uuid>
+        <uuid>459d9e6c-0064-4f27-a60d-b57ee7098a79</uuid>
         <uuid>fc1f16df-404e-4bc3-91dd-4a1ed98ecbb2</uuid>
         <uuid>b48ed0c1-36ae-4658-8a3f-568fea7902c3</uuid>
+        <uuid>5d3c6ee2-215b-4f93-bd82-1f7060c45d97</uuid>
+        <uuid>4c6c055c-c368-4ad1-b681-02cc58029c7e</uuid>
+        <uuid>561f21b7-f481-41b2-9ffa-f2d9fe7f857d</uuid>
+        <uuid>1eca45de-b340-4100-9052-60596aa33146</uuid>
         <uuid>3f646dfa-bacd-4d3c-be7f-499444f8e8c7</uuid>
+        <uuid>df9572e3-e523-46aa-b226-655902edabd1</uuid>
         <uuid>40fac552-0b4f-438f-b3dc-4b1100664f7f</uuid>
         <uuid>8266e7f6-8172-4589-8643-de1d26bcab35</uuid>
+        <uuid>255805d6-b89b-4e0c-bc3a-861e34d64e55</uuid>
         <uuid>541b7236-f827-43af-b7b8-c3bc9dcc04ad</uuid>
+        <uuid>8ceb2821-a54e-43ca-ba59-1f710bb37615</uuid>
         <uuid>28f03c80-c7a6-4121-be45-75a7a3ba106e</uuid>
+        <uuid>d93061d5-e4e1-4ced-b676-a6856bf90320</uuid>
         <uuid>35e62c47-0eca-4f39-812c-1b23e149bbd0</uuid>
-        <uuid>1e8e416a-ddaa-41cd-86c1-9db5d9746b46</uuid>
         <uuid>8b517806-ff60-457c-a5b0-219e237fbedf</uuid>
+        <uuid>dd94e9ff-1012-40c6-967d-802b8ce078cc</uuid>
+        <uuid>1e8e416a-ddaa-41cd-86c1-9db5d9746b46</uuid>
+        <uuid>eaad5944-17f6-44e7-b349-4aae3aa42d71</uuid>
         <uuid>81893e8b-0321-482b-b9b9-cf72b2fbdcea</uuid>
-        <uuid>b3d7390d-59cd-4737-a6b1-38c4061bde95</uuid>
+        <uuid>2230e996-e898-414c-b38e-bfd0c9209dda</uuid>
+        <uuid>6f875989-b73e-4a9b-9380-76ff2babdba8</uuid>
+        <uuid>cc05e459-83cc-4b7f-a36d-c99095b22d78</uuid>
+        <uuid>ef213f0e-e8be-461f-a2b0-8ac5880ba02a</uuid>
         <uuid>a4a265ce-8bc5-433f-85d6-aa508cd9da12</uuid>
+        <uuid>b3d7390d-59cd-4737-a6b1-38c4061bde95</uuid>
         <uuid>4d62e212-de28-41ae-9fef-e4ffcc7e6d44</uuid>
         <uuid>2ee3067b-7311-41dd-8a6d-fedb7e33f20d</uuid>
         <uuid>39f75f20-10e2-473f-a52e-e296296e2301</uuid>
-        <uuid>c7a124d1-0491-4a55-ac94-1a9f2376f616</uuid>
         <uuid>96221c36-516b-4437-a4cb-5895b9e4b42d</uuid>
+        <uuid>c7a124d1-0491-4a55-ac94-1a9f2376f616</uuid>
         <uuid>d60955e1-d2f6-4303-842e-73d2f4d1fbd4</uuid>
+        <uuid>50b8d8c5-a521-4283-8818-edff3e60babc</uuid>
         <uuid>132e620c-ef29-4f80-abb0-01099e36cbe1</uuid>
+        <uuid>246fa3da-fa4c-41e8-8c36-4c678a65c4cf</uuid>
         <uuid>dedb698c-fc62-4a33-b70a-649d1864841e</uuid>
         <uuid>ad0754f6-1f47-4f3d-8c14-08513d4fb66c</uuid>
         <uuid>980f9cc4-167a-4e0f-93d8-59152b7d7ffe</uuid>
         <uuid>d544da5d-29fe-4106-8c08-6b23feba3081</uuid>
+        <uuid>cf0264b6-3a73-4f89-b9bb-6c99ee612bfa</uuid>
         <uuid>62d5bea7-2190-481b-9dd2-c72aec79d780</uuid>
         <uuid>fa7c8759-9d25-48f2-8663-d5ce2b16b2b0</uuid>
-        <uuid>ec60ebc5-1a04-4755-9483-eae00f320ea5</uuid>
+        <uuid>73ba4951-91ea-4c25-81e4-2f1011fecb2e</uuid>
         <uuid>be5b5f71-8f00-4682-8417-c3b94f5b315d</uuid>
+        <uuid>ec60ebc5-1a04-4755-9483-eae00f320ea5</uuid>
+        <uuid>fda13d97-0a94-4b9e-9703-70b13312509e</uuid>
         <uuid>b6c7ea78-5864-4de0-86ba-a8d70c4b521f</uuid>
         <uuid>111ca369-8f52-451e-a5dc-08a20c77c433</uuid>
+        <uuid>ea70dfff-7cb2-4b8e-990c-d1127922968c</uuid>
         <uuid>d81a8109-3837-450a-a384-eecfff9d79fc</uuid>
+        <uuid>d8a21aca-5672-4692-9c11-82bcffeee0ce</uuid>
         <uuid>4993e1d3-f106-4a70-b404-662bbf252d39</uuid>
         <uuid>6bf07cc3-4d41-4226-baf4-b15a1f5295af</uuid>
+        <uuid>b575a3ca-1544-402a-bab3-4870b1473952</uuid>
+        <uuid>61fb38dc-e6fa-47df-ad8d-bbe329456a21</uuid>
         <uuid>292c9fc2-ad3a-4e83-85bd-a728c7d15319</uuid>
         <uuid>2af65cc5-89f0-4245-8bed-66050f09846d</uuid>
+        <uuid>720c178b-12b3-4ed7-a891-f45486f17cda</uuid>
         <uuid>d3116908-2797-4bf0-9e82-06141995c873</uuid>
         <uuid>a9655a96-cf43-47bc-b728-5da878de765d</uuid>
+        <uuid>c79a8ce4-6628-4ad1-8501-c7c4f8b1acfc</uuid>
         <uuid>da403d0b-0908-45d8-8cdb-158b49af0671</uuid>
-        <uuid>8b41c7ba-f992-4a39-a15d-a036b63dc310</uuid>
         <uuid>4091b524-0755-4023-a08c-38e9b244bdf4</uuid>
+        <uuid>8b41c7ba-f992-4a39-a15d-a036b63dc310</uuid>
+        <uuid>d8126d00-fb91-49cd-9808-005aaff961fd</uuid>
         <uuid>1f3bf89a-00ca-4c18-923f-1e9b5ada1214</uuid>
+        <uuid>afd028bd-e709-4835-b591-517d7cde6178</uuid>
         <uuid>a84ed8f6-d361-41b3-8500-ca6f11d19bc8</uuid>
         <uuid>972c8755-8d2a-4ed8-a3d0-1b2cdbdcc3b5</uuid>
         <uuid>769591e6-6b5d-47cf-bb4e-f815d8878d1d</uuid>
         <uuid>e2bc02bf-5e96-4967-9c22-599fe2e1638f</uuid>
-        <uuid>0c954933-3d23-41c2-9b0c-d6633ba414ae</uuid>
         <uuid>71836d65-227a-497f-a154-103c6402f9ab</uuid>
+        <uuid>0c954933-3d23-41c2-9b0c-d6633ba414ae</uuid>
         <uuid>8557a20a-a1f8-47c5-a94d-2bc1ba396ef1</uuid>
-        <uuid>58724803-865e-4e3d-8975-4ee29bba431a</uuid>
-        <uuid>b62d17bb-df2b-4e43-802a-7c480b8af433</uuid>
+        <uuid>f201d519-737b-4022-a434-37b40f79cb9d</uuid>
         <uuid>996a7360-9af9-4120-bdd7-9d5b6b0ce776</uuid>
+        <uuid>b62d17bb-df2b-4e43-802a-7c480b8af433</uuid>
+        <uuid>58724803-865e-4e3d-8975-4ee29bba431a</uuid>
         <uuid>bc45303f-01a6-43b8-b09d-fcbb20b68fdd</uuid>
+        <uuid>4eb8a225-cffd-46ba-b972-cbfa6c96c6ed</uuid>
         <uuid>7159dbce-2317-4478-a0bd-52008c32dc5c</uuid>
         <uuid>efae5786-d6cd-47fd-9334-ed26a395e7b2</uuid>
+        <uuid>16b1500b-fb7c-4fde-a53d-8e1dcd57b142</uuid>
         <uuid>bca27208-d2f3-4ada-b67a-bef1ac9ab5bc</uuid>
+        <uuid>0cf8cf56-3b3f-4134-8391-f37515a9f7d9</uuid>
+        <uuid>3b2828b5-e34d-4704-88e0-5f5d69dc1684</uuid>
+        <uuid>690f894c-a5a2-4c98-a6d8-83b29e6fa74d</uuid>
         <uuid>79651bd8-3d77-41c7-b76d-ce5f97d495df</uuid>
+        <uuid>19e96459-6dc5-4a75-a976-8b8b75b82473</uuid>
         <uuid>6aa94fe9-54a8-438d-b858-1678d4f2ad8f</uuid>
         <uuid>6e453dc1-4ad8-445a-84f2-762545a05348</uuid>
         <uuid>f3466da9-9f15-4b58-b164-fc765d3825b2</uuid>
         <uuid>fa9710d1-83cc-4496-8682-0148c238f3d5</uuid>
+        <uuid>91131740-9ba1-4af5-9672-fe38cda51bd4</uuid>
         <uuid>fe5e5441-745a-4ea8-8866-f0a82cc681d9</uuid>
-        <uuid>fa0e5505-b787-4045-b5af-55d668e4b56a</uuid>
         <uuid>670a9f04-0fbe-4e5e-80f3-2a56844c3a39</uuid>
+        <uuid>fa0e5505-b787-4045-b5af-55d668e4b56a</uuid>
         <uuid>26890376-66fb-47f3-a4f5-8a9c576874c8</uuid>
         <uuid>d8a97a90-9a0d-4bef-96d7-9db269f74808</uuid>
         <uuid>55a07156-a6b4-4737-b2b2-14f6bee39890</uuid>
-        <uuid>671f7c28-ff10-446c-8fa6-3b69a8bddd7d</uuid>
         <uuid>9e44d47d-1e1f-4711-830d-4bc2df0013bc</uuid>
+        <uuid>671f7c28-ff10-446c-8fa6-3b69a8bddd7d</uuid>
         <uuid>f34f7524-7e91-425c-8873-51a1e5bc338e</uuid>
+        <uuid>ecc5daa5-7e9c-4732-9aca-223f3479aa08</uuid>
         <uuid>93e82294-f89e-4d36-9fdc-624dcccd02c3</uuid>
+        <uuid>b833688e-47a5-41ba-9597-e528a4572d06</uuid>
         <uuid>0e81f45c-7e7b-4126-b1fc-a9e6ef6333b5</uuid>
+        <uuid>92ba28ad-9b00-4f35-997d-7155896a8e2c</uuid>
+        <uuid>2697067c-729b-4ee8-8fcf-bd93f6807109</uuid>
         <uuid>d61c1cc6-22c9-4866-87b9-ec814a4eba4e</uuid>
-        <uuid>e2ae81b3-b91e-4c7a-a9fe-0f132d3ca6e6</uuid>
         <uuid>a2b051f5-c1ee-4e27-ab42-a282e6d130d3</uuid>
+        <uuid>e2ae81b3-b91e-4c7a-a9fe-0f132d3ca6e6</uuid>
+        <uuid>21543088-dff6-4810-b46f-6e7fdf57e62d</uuid>
         <uuid>fe20252c-936c-44d1-a49d-8381c7ebcf12</uuid>
         <uuid>eb811859-43fd-4e5d-a308-bdba881cf780</uuid>
+        <uuid>46bbb015-c4ed-4f91-bc74-1885776deb18</uuid>
         <uuid>cdcf150e-5328-44b3-ac6e-d3fc835ad0c5</uuid>
         <uuid>9417a19e-38c1-429f-85f7-7dae117c1ba8</uuid>
-        <uuid>2a9012bf-694c-4fd8-8877-0646a8c45512</uuid>
         <uuid>e01fab0e-91dd-467b-9f6d-8786751c081c</uuid>
+        <uuid>2a9012bf-694c-4fd8-8877-0646a8c45512</uuid>
         <uuid>0efb8912-5cd9-414e-8b36-9e54e64aa60b</uuid>
         <uuid>96f79985-286e-4ce3-97ac-cf721a623c1c</uuid>
         <uuid>609d24de-f9f0-4203-866a-c31ac3e1ee41</uuid>
         <uuid>cdc4e950-ae6b-4f24-bc8a-dc9c747250df</uuid>
         <uuid>0a4d2e75-dfbd-4a74-82a5-df297eae8db1</uuid>
-        <uuid>24bbd4b5-05ee-44ff-8da2-b109ebcf6f18</uuid>
+        <uuid>4a2ab0ef-27d5-4590-ad39-201eb99b2d5e</uuid>
         <uuid>9cc9d1fa-5b96-4713-b35b-aa13efc52e58</uuid>
+        <uuid>24bbd4b5-05ee-44ff-8da2-b109ebcf6f18</uuid>
         <uuid>8d2a9e60-0bfb-4c3e-bcae-5c1f66673b3d</uuid>
         <uuid>88cdca9e-11b0-458f-9bf9-bf5bc0c4576d</uuid>
         <uuid>3b811b0e-c5b3-4767-b5e1-b0bc2a0a4e65</uuid>
         <uuid>791f4fee-77c0-4c71-91d4-44804e43793c</uuid>
+        <uuid>8aa43f17-be3f-4898-a2e7-b7b19f207c0c</uuid>
+        <uuid>4162a41b-c222-4f00-b150-4bafbfc3d615</uuid>
+        <uuid>ff2e8f74-60ab-44ae-a874-ccb2257f8695</uuid>
+        <uuid>d6e9b723-ceba-4d04-9fb2-cfa2a8768166</uuid>
         <uuid>32aa010a-0c8c-4e31-b8d0-ded87bbc39dc</uuid>
         <uuid>b989efd7-3331-4ab8-8e00-01a27b7d887f</uuid>
         <uuid>250ce2aa-97f9-42d3-a77c-3bf884175d66</uuid>
@@ -7864,58 +7952,89 @@
         <uuid>d974c62e-6984-4e8b-a735-cbcc46143939</uuid>
         <uuid>be655729-166d-44d2-9bb4-9672d7f9e44d</uuid>
         <uuid>9f75c132-0406-4b49-a255-10df9e5dcc5d</uuid>
+        <uuid>ff47c518-0509-4bc4-8c2b-957ec29b2cdf</uuid>
+        <uuid>3faeced3-d182-4a2e-b9cb-63ed64a79bd3</uuid>
+        <uuid>88764127-7d42-4646-81f7-09bf1b7726e9</uuid>
         <uuid>ff1df707-297a-4cb9-bd8a-52056f3118ef</uuid>
+        <uuid>83f84cae-d7cb-40d3-9716-ca0a80f4c22f</uuid>
         <uuid>8983d237-6e5b-4d45-92ed-4e9062688136</uuid>
         <uuid>61ba547d-1a1e-4f41-b4a4-63d6a993d1ea</uuid>
         <uuid>a93bc308-c0a5-4d5e-9fb5-c1c244b11498</uuid>
+        <uuid>68294c30-a789-48c2-ae2b-026261580bd5</uuid>
         <uuid>db7fee0a-2961-4b4b-a9d6-540c7e276135</uuid>
+        <uuid>6552ddef-629b-4f92-a133-885f378142ce</uuid>
         <uuid>db4e8a90-d901-46f5-8d73-c95d68a8c534</uuid>
         <uuid>f316ec4b-800c-4702-9d04-416d771b04ba</uuid>
+        <uuid>1b204b1c-2371-4399-9a63-a5a7f10bd186</uuid>
+        <uuid>3a6ce5ec-a75d-4a66-a2d8-8a8b610c8e7a</uuid>
         <uuid>1e98ab7d-4f48-460e-97bf-177efcacd150</uuid>
+        <uuid>81f9afbb-c696-4553-8d1d-bfbf33f2b148</uuid>
         <uuid>97a8ffe9-e716-43b7-b23c-649d314a34ab</uuid>
         <uuid>5fbfb5ec-56b6-441e-9ae6-8047872cf6df</uuid>
+        <uuid>f2aac08b-d423-455c-8037-1759956fc8f5</uuid>
         <uuid>4458bfb3-d962-4942-a1f4-3189b7c371de</uuid>
         <uuid>266d0188-1fba-4272-ac49-27f27c36280d</uuid>
+        <uuid>05590df1-274f-4607-99dc-98b7864d4b68</uuid>
+        <uuid>e9acd8d7-f5b5-46d2-a834-fa60abebe412</uuid>
+        <uuid>2f1cc083-a268-484e-b6ae-d40aeec4b86a</uuid>
         <uuid>85f3df6d-2d8c-41ef-b6e4-c22f3a2f4fad</uuid>
         <uuid>d6f711bb-0581-41d8-9af3-36e625a63913</uuid>
+        <uuid>f4a56f90-a1ec-482f-a29e-642e30bded4e</uuid>
         <uuid>98cbb2a9-9903-4b23-9423-fec55bf660e4</uuid>
+        <uuid>b8699057-a33b-4a07-bb94-c3771932fb6b</uuid>
+        <uuid>6bbd5b68-f095-45ae-8106-6e7fee4e9961</uuid>
         <uuid>a7ca8848-e63d-495f-b649-c0c5b1157cc0</uuid>
+        <uuid>887ea3bc-2102-4bd3-9083-eaf80d405593</uuid>
         <uuid>ef38b8d7-fdd9-46c3-8cf6-9808e9b38e04</uuid>
         <uuid>87ee13c7-6fb7-42c0-857f-028d21782268</uuid>
         <uuid>0c664455-1a30-47ac-84c9-1619800d48cd</uuid>
+        <uuid>dbf90c1c-48d3-4f69-89e1-c1d2a26c45c2</uuid>
         <uuid>062cadc3-d4eb-4788-9f79-912a73b0bcad</uuid>
         <uuid>a75d0976-fa21-48f3-9e83-28fc48db0f9b</uuid>
         <uuid>0e37dc48-2337-426f-ba15-aefd26d36edb</uuid>
+        <uuid>bc6cd532-fa0f-49d5-83dd-fe14acd3fc56</uuid>
         <uuid>044e97cd-7542-48d1-95fc-4e5f0ea35ad9</uuid>
+        <uuid>f40f7fd6-51f9-4af5-b637-a8e054e8ff20</uuid>
         <uuid>4f5526e6-b03e-4dbc-aacb-49975c29168b</uuid>
         <uuid>29121274-936e-428f-b3a3-07d35b28bc0d</uuid>
         <uuid>1e6ac9d5-8060-4c66-bbfc-caff10d0a5b9</uuid>
         <uuid>7f58d5f0-193e-4edd-866a-f50ab0d66728</uuid>
         <uuid>1b5ce0cd-ddfe-4501-87dd-29f2695231c4</uuid>
         <uuid>e86441c4-176a-4205-9a81-d3b02a5bd072</uuid>
+        <uuid>5c53fef0-b412-4467-a763-56163b945fed</uuid>
+        <uuid>ca0e014f-dff0-4ded-bfdc-21c1741ba880</uuid>
         <uuid>8592a5ad-17b3-4d05-b9c3-3cc3b5f7efa2</uuid>
         <uuid>ac84ad55-8223-423c-a856-61af674d7ca6</uuid>
-        <uuid>20b969a2-2393-4e0c-b4ad-429b1ae421b6</uuid>
         <uuid>0bb3c3d1-f3e3-4571-8d89-ae5f089bc05d</uuid>
+        <uuid>20b969a2-2393-4e0c-b4ad-429b1ae421b6</uuid>
+        <uuid>947f09d3-80f5-4841-a9f1-3aa8a5bdb41e</uuid>
         <uuid>3bdf058e-e0e2-4a1a-8e20-5b541e2be210</uuid>
-        <uuid>b6adc620-db0c-4cb7-a770-178ac5e7d7c2</uuid>
+        <uuid>4dbbe651-3bd2-4ae2-b2ba-754c93cb070e</uuid>
         <uuid>33a92b5f-2090-4d71-ba24-05bc7ed1c3b7</uuid>
+        <uuid>b6adc620-db0c-4cb7-a770-178ac5e7d7c2</uuid>
         <uuid>92a4edc6-97c3-4a96-917c-3b34027e0feb</uuid>
+        <uuid>4b02b129-de37-4fc2-a935-9905b0376233</uuid>
         <uuid>74077067-1168-4119-b8a4-75d7d5220bac</uuid>
+        <uuid>185dcedf-0713-44e4-b986-d6a0c76f4cd2</uuid>
         <uuid>42f23743-baa8-4406-adcb-1565f2ea08b5</uuid>
         <uuid>d4fc443c-9a5b-4062-abad-6557b40633f5</uuid>
+        <uuid>1de9c0df-97f0-4bbd-8e40-a961155246fa</uuid>
         <uuid>cab8fe82-f211-4fdb-ba6b-4cdaadfcbb49</uuid>
         <uuid>0bfeac8f-f623-4cde-add9-ac232215b597</uuid>
         <uuid>b623adcf-1f82-4512-add9-03faa27c5ed4</uuid>
         <uuid>3ac40176-05e6-49d9-a4fa-cf6641e3d80b</uuid>
+        <uuid>83e145a8-14d4-46ec-8f38-8d3c8b7022fe</uuid>
         <uuid>54afdab1-424b-4688-9ade-7befab35f524</uuid>
+        <uuid>0ba5a568-ade9-4d09-9b8d-bd0f4ad0d582</uuid>
         <uuid>122a62be-10a5-490c-83e9-bb80dd81cb2a</uuid>
       </componentIds>
-      <name>Full Board</name>
+      <name>a</name>
     </group>
   </groupsEx>
   <lockedLayers/>
   <lockedComponents/>
-  <hiddenLayers/>
+  <hiddenLayers>
+    <int>5</int>
+  </hiddenLayers>
   <font name="Dialog.plain" size="14" style="0"/>
 </project>
